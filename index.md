@@ -37,13 +37,16 @@ For each conference that has "unlimited" pages, the table also reports: the link
 | 10  | _TCC_           |          [2022](https://tcc.iacr.org/2022/papersubmission.php)           |     15     | LNCS, SC   |        [2011](https://www.iacr.org/workshops/tcc2011/cfp.html)        |      |           |
 | 11  | _IEEE SecDev_   |               [2022](https://secdev.ieee.org/2022/papers)                |     6      | IEEE, DC   |             [2019](https://secdev.ieee.org/2019/papers/)              |      |           |
 | 12  | _IEEE PRDC_     |         [2022](http://prdc.dependability.org/PRDC2022/cfp.html)          |     10     | IEEE, DC   |        [2022](http://prdc.dependability.org/PRDC2022/cfp.html)        |      |           |
-| 13  | _Eurocrypt_(*)  |       [2023](https://eurocrypt.iacr.org/2023/papersubmission.php)        |     30     | LNCS, SC   |    [2011](https://www.iacr.org/conferences/eurocrypt2011/cfp.php)     |      |           |
-| 14  | _USENIX SEC_(*) | [2023](https://www.usenix.org/sites/default/files/sec23_cfp_092722.pdf)  |     13     | USENIX, DC |  [2011](https://www.usenix.org/legacy/events/sec11/cfp/sec11cfp.pdf)  |      |     ✔     |
-| 15  | _Crypto_(*)     |          [2023](https://crypto.iacr.org/2023/callforpapers.php)          |     30     | LNCS, SC   |     [2011](https://www.iacr.org/conferences/crypto2011/cfp.html)      |      |           |
-| 16  | _AsiaCrypt_(*)  |        [2022](https://asiacrypt.iacr.org/2022/files/AC22-CFP.pdf)        |     30     | LNCS, SC   |  [2014](https://www.iacr.org/conferences/asiacrypt2014/index-1.htm)   |      |           |
-| 17  | _ANCS_(*)       |        [2023](https://sulab-sever.u-aizu.ac.jp/ACNS2023/cfp.html)        |     20     | LNCS, SC   |             [2015](http://acns2015.cs.columbia.edu/cfp/)              |      |           |
+| 13  | _FSE_           |           [2022](https://fse.iacr.org/2023/callforpapers.php)            |     40     | LNCS, SC   |          [2022](https://fse.iacr.org/2022/files/cfp_21.pdf)           |  ✔   |           |
+| 14  | _Eurocrypt_(*)  |       [2023](https://eurocrypt.iacr.org/2023/papersubmission.php)        |     30     | LNCS, SC   |    [2011](https://www.iacr.org/conferences/eurocrypt2011/cfp.php)     |      |           |
+| 15  | _USENIX SEC_(*) | [2023](https://www.usenix.org/sites/default/files/sec23_cfp_092722.pdf)  |     13     | USENIX, DC |  [2011](https://www.usenix.org/legacy/events/sec11/cfp/sec11cfp.pdf)  |      |     ✔     |
+| 16  | _Crypto_(*)     |          [2023](https://crypto.iacr.org/2023/callforpapers.php)          |     30     | LNCS, SC   |     [2011](https://www.iacr.org/conferences/crypto2011/cfp.html)      |      |           |
+| 17  | _AsiaCrypt_(*)  |        [2022](https://asiacrypt.iacr.org/2022/files/AC22-CFP.pdf)        |     30     | LNCS, SC   |  [2014](https://www.iacr.org/conferences/asiacrypt2014/index-1.htm)   |      |           |
+| 18  | _ANCS_(*)       |        [2023](https://sulab-sever.u-aizu.ac.jp/ACNS2023/cfp.html)        |     20     | LNCS, SC   |             [2015](http://acns2015.cs.columbia.edu/cfp/)              |      |           |
 {:.table}
 {:.table-bordered}
+
+
 
 
 I will update this list regularly, but feel free to [email me](mailto:giovanni.apruzzese@uni.li) if you spot a mistake (e.g., a missing venue), or if you want to "refresh" it sooner. (Last update: September 28th, 2022)
