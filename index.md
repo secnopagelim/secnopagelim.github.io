@@ -55,7 +55,7 @@ This website was inspired by the "Rump Session" during the 2022 edition of the [
 The main reason why I created this website is to _help researchers in cybersecurity in choosing to which venue_ they should submit a given work---since having plenty of space for appendices may be a deciding factor. To the best of my knowledge, there are no resources that aggregate all such information in a single list.
 
 Nonetheless, there are deeper reasons that motivated me in creating this website, albeit most of them are subjective and stem from my (recent, and arguably little) experience---both as a reviewer, and as an author. Put simply, it is to _send a message to our community_. 
-As all such considerations are personal, I will not discuss them here: feel free to read them in the dedicated blog-post that I made on my personal website.
+As all such considerations are personal, I will not discuss them here: feel free to read them in the dedicated [blog-post that I made on my personal website](https://www.giovanniapruzzese.com/posts/2022/secnopagelim).
 
 
 
