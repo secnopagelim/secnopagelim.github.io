@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Security Venues with No Page-Limit
-tagline:  A short list
+tagline:  A quick list
 description: This website lists all Cybersecurity venues that do not impose any limit to the length of the References/Appendices in the submitted papers
 ---
 
@@ -46,7 +46,7 @@ For each conference that has "unlimited" pages, the table also reports: the link
 {:.table-bordered}
 
 
-(I will update this list regularly, but feel free to email me if you spot a mistake, or if you want to "refresh" it sooner)
+I will update this list regularly, but feel free to email me if you spot a mistake, or if you want to "refresh" it sooner. (Last update: September 28th, 2022)
 
 ### Why?
 **under construction**
@@ -55,11 +55,11 @@ For each conference that has "unlimited" pages, the table also reports: the link
 
 #### Backstory
 
-This website was inspired by the "Rump Session" during the 2022 edition of the [IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2022/program.html).
+This website was inspired by the "Rump Session" during the 2022 edition of the [IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2022/program.html) (held on Wednesday).
 
 In particular, during such Rump Session, I gave a talk in which I discussed about the length of papers in Cybersecurity Conferences. Funnily enough, [David Evans](https://www.cs.virginia.edu/~evans/) (the Co-chair of EuroS&P23) said that "the ideal length of a paper is 0 pages", which is something to which I agree with---in principle. Yet, the discussion was very engaging (I believe it lasted nearly 1 hour), and a lot of interesting points were raised by all the participants (h/t to all those who contributed!).
 
-In the few hours before the Rump Session I came up with a "draft" version of this website, which consisted in a simple Google Sheet (accessible at this link: [www.tinyurl.com/noapplim](www.tinyurl.com/noapplim)) 
+In the few hours before the Rump Session I came up with a "draft" version of this website, which consisted in a simple Google Sheet (accessible at this link: [https://tinyurl.com/noapplim](https://tinyurl.com/noapplim)) 
 For various reasons, I decided to "upgrade" such version into a more comprehensive website.
 
 
