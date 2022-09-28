@@ -42,7 +42,7 @@ For each conference that has "unlimited" pages, I will also report: the link to 
 | 15  | _Crypto_*       |          [2023](https://crypto.iacr.org/2023/callforpapers.php)          |     30     | LNCS, SC   |     [2011](https://www.iacr.org/conferences/crypto2011/cfp.html)      |      |           |
 | 16  | _AsiaCrypt_*    |        [2022](https://asiacrypt.iacr.org/2022/files/AC22-CFP.pdf)        |     30     | LNCS, SC   |  [2014](https://www.iacr.org/conferences/asiacrypt2014/index-1.htm)   |      |           |
 | 17  | _ANCS_*         |        [2023](https://sulab-sever.u-aizu.ac.jp/ACNS2023/cfp.html)        |     20     | LNCS, SC   |             [2015](http://acns2015.cs.columbia.edu/cfp/)              |      |           |
-
+{:.mbtablestyle}
 
 
 (I will update this list regularly, but feel free to email me if you spot a mistake, or if you want to "refresh" it sooner)
