@@ -53,9 +53,9 @@ I will update this list regularly, but feel free to [email me](mailto:giovanni.a
 
 
 ### Why?
-This website was inspired by the "Rump Session" of the 7th [IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2022/program.html) (held on Wednesday, June 8th). In the few hours before the Rump Session I came up with a "draft" version of the website, which consisted in a simple Google Sheet (accessible at this link: [https://tinyurl.com/noapplim](https://tinyurl.com/noapplim)) that I shared with the attendees of the Rump Session. For various reasons, I decided to "upgrade" such version into a more comprehensive website. :)
+This website was inspired by the "Rump Session" of the 7th [IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2022/program.html) (held on Wednesday, June 8th). In the few hours before the Rump Session I came up with a "draft" version of the website, which consisted in a simple Google Sheet (accessible at this link: [https://tinyurl.com/noapplim](https://tinyurl.com/noapplim)) that I shared with the attendees of the Rump Session. For various reasons, I decided to "upgrade" such version into a more comprehensive website, i.e., this one.
 
-The main reason why I created this website is to _help researchers in cybersecurity in choosing to which venue_ they should submit a given work---since having plenty of space for appendices may be a deciding factor. To the best of my knowledge, there are no resources that aggregate all such information in a single list.
+The main reason is to _help cybersecurity researchers in choosing to which venue_ they should submit a given work---since having plenty of space for appendices may be a deciding factor. To the best of my knowledge, there are no resources that aggregate all such information in a single list.
 
 Nonetheless, there are deeper reasons that motivated me in creating this website, albeit most of them are subjective and stem from my (recent, and arguably little) experience---both as a reviewer, and as an author. Put simply, it is to _send a message to our community_. 
 As all such considerations are personal, I will not discuss them here: feel free to read them in the dedicated [blog-post that I made on my personal website](https://www.giovanniapruzzese.com/posts/2022/secnopagelim).
