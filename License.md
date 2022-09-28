@@ -3,4 +3,4 @@ who has waived all copyright and related or neighboring rights to the correspond
 &ldquo;[simple site](https://github.com/kbroman/simple_site)&rdquo;.
 This website has been created in the European Union.
 <br/>
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.eu.png)](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.eu.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
