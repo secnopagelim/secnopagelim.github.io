@@ -12,7 +12,7 @@ This website contains a comprehensive list of _all_ cybersecurity venues that ac
 
 ### How?
 
-I simply take all well-known venues (i.e., conferences or symposia) and check their Call for Papers (CfP): if such CfP specify that there is no limit for appendices/references, then I will list them in this website. Specifically, the list of venues is taken from this source: [Jianying Zhou ranking](http://jianying.space/conference-ranking.html)
+I simply take all well-known venues (i.e., conferences, workshops or symposia) and check their Call for Papers (CfP): if such CfP specify that there is no limit for appendices/references, then I will list them in this website. Specifically, the list of venues is taken from this source: [Jianying Zhou ranking](http://jianying.space/conference-ranking.html)
 
 ## List
 The list is provided in the table below.
@@ -23,23 +23,34 @@ For each conference that has "unlimited" pages, I will also report: the link to 
 
 
 
-| #   | Full Name (acronym)                                                                | CfP Link                                                                  | Base Pages | Template   | Since                                                                 | SoK? | Artifact? |
-|-----|------------------------------------------------------------------------------------|---------------------------------------------------------------------------|------------|------------|-----------------------------------------------------------------------|------|-----------|
-| 1   | IEEE European Symposium on Security and Privacy (EuroS&P)                          | [2023](https://www.ieee-security.org/TC/EuroSP2023/cfp.html)              | 13         | IEEE, DC   | [2021](https://www.ieee-security.org/TC/EuroSP2021/cfp.html)          | Y    | N         |
-| 2   | USENIX Security Symposium (SEC)                                                    | [2023](https://www.usenix.org/sites/default/files/sec23_cfp_092722.pdf) * | 13         | USENIX, DC | [2011](https://www.usenix.org/legacy/events/sec11/cfp/sec11cfp.pdf)   | N    | Y         |
-| 3   | ACM Conference on Computer and Communication Security (CCS)                        | [2022](https://www.sigsac.org/ccs/CCS2022/call-for/call-for-papers.html)  | 12         | ACM, DC    | [2016](https://www.sigsac.org/ccs/CCS2016/call-for-papers/index.html) | N    | Y         |
-| 4   | Network and Distributed Systems Security Symposium (NDSS)                          | [2023](https://www.ndss-symposium.org/ndss2023/call-for-papers/)          | 13         | NDSS, DC   | [2020](https://www.ndss-symposium.org/ndss2020/call-for-papers/)      | N    | N         |
-| 5   | International Symposium on Research in Attacks, Intrusions and Defenses (RAID)     | [2022](https://raid2022.cs.ucy.ac.cy/call.html)                           | 12         | ACM, DC    | [2019](http://www.raid-2019.org/callForPapers.html)                   | N    | N         |
-| 6   | Privacy Enhancing Technologies Symposium (PETS)                                    | [2023](https://petsymposium.org/authors23.php#submission-guidelines)      | 12         | PETS, DC   | [2023](https://petsymposium.org/authors23.php#submission-guidelines)  | Y    | N         |
-| 7   | IEEE Computer Security Foundations Symposium (CSF)                                 | [2023](https://www.ieee-security.org/TC/CSF2023/cfp.html)                 | 12         | IEEE, DC   | [2011](http://csf2011.inria.fr/call-for-papers.html)                  | Y    | N         |
-| 8   | Symposium on Usable Privacy and Security (SOUPS)                                   | [2022](https://www.usenix.org/conference/soups2022/call-for-papers)       | 12         | USENIX, DC | [2011](http://cups.cs.cmu.edu/soups/2011/cfp.html)                    | Y    | N         |
-| 9   | IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)                 | [2022](https://satml.org/participate-cfp/)                                | 12         | IEEE, DC   | [2022](https://satml.org/participate-cfp/)                            | Y    | N         |
-| 10  | Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) | [2023](https://dsn2023.dei.uc.pt/calls_cfp-research.html)         (§)     | 11         | IEEE, DC   | [2019](https://2019.dsn.org/cfpapers.html)                            | N    | N         |
+| #   | Venue (Acronym) | CfP Link                                                                  | Base Pages | Template   | Since                                                                    | SoK? | Artifact? |
+|-----|-----------------|---------------------------------------------------------------------------|------------|------------|--------------------------------------------------------------------------|------|-----------|
+| 1   | IEEE EuroS&P    | [2023](https://www.ieee-security.org/TC/EuroSP2023/cfp.html)              | 13         | IEEE, DC   | [2021](https://www.ieee-security.org/TC/EuroSP2021/cfp.html)             | Y    | N         |
+| 3   | ACM CCS         | [2022](https://www.sigsac.org/ccs/CCS2022/call-for/call-for-papers.html)  | 12         | ACM, DC    | [2016](https://www.sigsac.org/ccs/CCS2016/call-for-papers/index.html)    | N    | Y         |
+| 4   | NDSS            | [2023](https://www.ndss-symposium.org/ndss2023/call-for-papers/)          | 13         | NDSS, DC   | [2020](https://www.ndss-symposium.org/ndss2020/call-for-papers/)         | N    | N         |
+| 5   | RAID            | [2022](https://raid2022.cs.ucy.ac.cy/call.html)                           | 12         | ACM, DC    | [2019](http://www.raid-2019.org/callForPapers.html)                      | N    | N         |
+| 6   | PETS            | [2023](https://petsymposium.org/authors23.php#submission-guidelines)      | 12         | PETS, DC   | [2023](https://petsymposium.org/authors23.php#submission-guidelines)     | Y    | N         |
+| 7   | IEEE CSF        | [2023](https://www.ieee-security.org/TC/CSF2023/cfp.html)                 | 12         | IEEE, DC   | [2011](http://csf2011.inria.fr/call-for-papers.html)                     | Y    | N         |
+| 8   | SOUPS           | [2022](https://www.usenix.org/conference/soups2022/call-for-papers)       | 12         | USENIX, DC | [2011](http://cups.cs.cmu.edu/soups/2011/cfp.html)                       | Y    | N         |
+| 9   | IEEE SaTML      | [2022](https://satml.org/participate-cfp/)                                | 12         | IEEE, DC   | [2022](https://satml.org/participate-cfp/)                               | Y    | N         |
+| 10  | IFCA FC         | [2022](http://fc23.ifca.ai/cfp.html)                                      | 15         | LNCS, SC   | [2015](http://fc15.ifca.ai/cfp.html)                                     | N    | N         |
+| 11  | TCC             | [2022](https://tcc.iacr.org/2022/papersubmission.php)                     | 15         | LNCS, SC   | [2011](https://www.iacr.org/workshops/tcc2011/cfp.html)                  | N    | N         |
+| 12  | IEEE SaTML      | [2022](https://satml.org/participate-cfp/)                                | 12         | IEEE, DC   | [2022](https://satml.org/participate-cfp/)                               | Y    | N         |
+| 13  | Eurocrypt       | [2023](https://eurocrypt.iacr.org/2023/papersubmission.php)         *     | 30         | LNCS, SC   | [2011](https://www.iacr.org/conferences/eurocrypt2011/cfp.php)           | N    | N         |
+| 14  | USENIX SEC      | [2023](https://www.usenix.org/sites/default/files/sec23_cfp_092722.pdf) * | 13         | USENIX, DC | [2011](https://www.usenix.org/legacy/events/sec11/cfp/sec11cfp.pdf)      | N    | Y         |
+| 15  | Crypto          | [2023](https://crypto.iacr.org/2023/callforpapers.php) *                  | 30         | LNCS, SC   | [2011](https://www.iacr.org/conferences/crypto2011/cfp.html)             | N    | N         |
+| 16  | AsiaCrypt       | [2022](https://asiacrypt.iacr.org/2022/files/AC22-CFP.pdf) *              | 30         | LNCS, SC   | [2014](https://www.iacr.org/conferences/asiacrypt2014/index-1.htm)       | N    | N         |
+| 17  | ANCS            | [2023](https://sulab-sever.u-aizu.ac.jp/ACNS2023/cfp.html)   *            | 20         | LNCS, SC   | [2015](http://acns2015.cs.columbia.edu/cfp/)                             | N    | N         |
+| 18  | IEEE DSN        | [2023](https://dsn2023.dei.uc.pt/calls_cfp-research.html)         (§)     | 11         | IEEE, DC   | [2019](https://2019.dsn.org/cfpapers.html)                               | N    | N         |
+| 20  | CHES            | [2023](https://ches.iacr.org/2023/cfp-ches2023.pdf)         (§)           | 40         | LNCS, SC   | [2015](https://www.cryptoexperts.com/ches2015/pdf/ches2015-CfPapers.pdf) | N    | N         |
+
+
 
 (I will update this list regularly, but feel free to send me an email if you spot a mistake, or if you want to "refresh" it sooner)
 
 ## Why?
-There are several reasons
+**under construction**
+
 
 
 ### Backstory
