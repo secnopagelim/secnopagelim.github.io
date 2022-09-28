@@ -46,11 +46,11 @@ For each conference that has "unlimited" pages, the table also reports: the link
 {:.table-bordered}
 
 
-I will update this list regularly, but feel free to [email me](mailto:giovanni.apruzzese@uni.li) if you spot a mistake, or if you want to "refresh" it sooner. (Last update: September 28th, 2022)
+I will update this list regularly, but feel free to [email me](mailto:giovanni.apruzzese@uni.li) if you spot a mistake (e.g., a missing venue), or if you want to "refresh" it sooner. (Last update: September 28th, 2022)
 
 
 ### Why?
-This website was inspired by the "Rump Session" during the 2022 edition of the [IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2022/program.html) (held on Wednesday, June 8th). In the few hours before the Rump Session I came up with a "draft" version of the website, which consisted in a simple Google Sheet (accessible at this link: [https://tinyurl.com/noapplim](https://tinyurl.com/noapplim)) that I shared with the attendees of the Rump Session. For various reasons, I decided to "upgrade" such version into a more comprehensive website. :)
+This website was inspired by the "Rump Session" of the 75th [IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2022/program.html) (held on Wednesday, June 8th). In the few hours before the Rump Session I came up with a "draft" version of the website, which consisted in a simple Google Sheet (accessible at this link: [https://tinyurl.com/noapplim](https://tinyurl.com/noapplim)) that I shared with the attendees of the Rump Session. For various reasons, I decided to "upgrade" such version into a more comprehensive website. :)
 
 The main reason why I created this website is to _help researchers in cybersecurity in choosing to which venue_ they should submit a given work---since having plenty of space for appendices may be a deciding factor. To the best of my knowledge, there are no resources that aggregate all such information in a single list.
 
