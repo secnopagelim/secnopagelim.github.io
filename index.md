@@ -57,7 +57,7 @@ I will update this list regularly, but feel free to [email me](mailto:giovanni.a
 
 This website was inspired by the "Rump Session" during the 2022 edition of the [IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2022/program.html) (held on Wednesday, June 8th).
 
-In particular, during such Rump Session, I gave a talk in which I discussed about the length of papers in Cybersecurity Conferences. Funnily enough, [David Evans](https://www.cs.virginia.edu/~evans/) (the Co-chair of EuroS&P23) said that "the ideal length of a paper is 0 pages", which is something to which I agree with---in principle. Yet, the discussion was very engaging (I believe it lasted nearly 1 hour), and a lot of interesting points were raised by all the participants (h/t to all those who contributed!).
+In particular, during such Rump Session, I gave a talk in which I discussed about the length of papers in Cybersecurity Conferences. Funnily enough, [David Evans](https://www.cs.virginia.edu/~evans/) (the Co-chair of EuroS&P22) said that "the ideal length of a paper is 0 pages", which is something to which I agree with---in principle. Yet, the discussion was very engaging (I believe it lasted nearly 1 hour), and a lot of interesting points were raised by all the participants (h/t to all those who contributed!).
 
 In the few hours before the Rump Session I came up with a "draft" version of this website, which consisted in a simple Google Sheet (accessible at this link: [https://tinyurl.com/noapplim](https://tinyurl.com/noapplim)) that I shared with the attendees of the Rump Session. For various reasons, I decided to "upgrade" such version into a more comprehensive website. :)
 
