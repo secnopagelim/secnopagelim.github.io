@@ -78,13 +78,15 @@ A (possible) solution to all the above is by removing the limit to the length of
 As an **author** it is disappointing:
 * when you have to "cut" some technical details simply because the page limits do not allow you to do it feasibly---and then seeing your paper "rejected" because of "lack of details";
 * when your paper is "rejected" because a reviewer complained about the "lack of details", despite such details being included in the Appendix.
+
 (both circumstances happened to me, and it was incredibly frustrating)
 
 As a **reviewer**, however, I acknowledge that it is discouraging when you open a paper and I see 30 pages (in a DC template), 15 of which being of Appendices... and even more-so when such appendices include content outside your main area of expertise.
-Nonetheless, the reviewer _can skip the appendix_. However, the reviewer should, _before_ submitting their review, check if some shortcomings outlined in their review are addressed in the appendix. If this is true, then the reviewer can:
+Nonetheless, the reviewer _can skip the appendix_. However, the reviewer should---_before_ submitting their review---check if some shortcomings outlined in their review are addressed in the appendix. If this is true, then the reviewer can:
 * read the corresponding part of the appendix, and check its correctness;
 * remove the shortcoming, which would be unfounded;
 * fairly state that the shortcoming may be unfounded by admitting that it may have been discussed in the Appendix, which the reviewer did not fully read---either for lack of time, or domain expertise.
+
 (I always do this when I review a paper)
 
 #### References
