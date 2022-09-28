@@ -8,7 +8,7 @@ description: This website lists all Cybersecurity venues that do not impose any 
 
 ## What?
 
-This website contains a comprehensive list of _all_ cybersecurity venues that accept papers without any limit to the amount of pages dedicated to either **references** or **appendices**.
+This website contains a comprehensive list of _all_ cybersecurity venues that accept papers without any limit to the amount of pages dedicated to **references** _and_ **appendices**.
 
 ### How?
 
@@ -18,7 +18,7 @@ I simply take all well-known venues (i.e., conferences, workshops or symposia) a
 The list is provided in the table below.
 For each conference that has "unlimited" pages, I will also report: the link to the most recent CfP, the amount of "base" pages (i.e., those subject to limitations), the template (DC=Double Column), the year in which the venue started to accept unlimited "extra" pages (since 2011), whether the venue accepts Systematization of Knowledge (SoK) papers, and whether the venue has a (separate) Artifact evaluation.
 
-**Note:** I will also include venues that accept "unlimited" pages _at the time of submission_, but for which the final paper must fit within a specified limit (this is the case, e.g., for USENIX Security). These special cases are marked with an asterisk "*". Moreover, a "§" symbol denotes those venues for which only references are unlimited.
+**Note:** I will also include venues that accept "unlimited" pages _at the time of submission_, but for which the final paper must fit within a specified limit (this is the case, e.g., for USENIX Security). These special cases are marked with an asterisk "*".
 
 
 
@@ -41,8 +41,7 @@ For each conference that has "unlimited" pages, I will also report: the link to 
 | 15  | Crypto          | [2023](https://crypto.iacr.org/2023/callforpapers.php) *                  | 30         | LNCS, SC   | [2011](https://www.iacr.org/conferences/crypto2011/cfp.html)             | N    | N         |
 | 16  | AsiaCrypt       | [2022](https://asiacrypt.iacr.org/2022/files/AC22-CFP.pdf) *              | 30         | LNCS, SC   | [2014](https://www.iacr.org/conferences/asiacrypt2014/index-1.htm)       | N    | N         |
 | 17  | ANCS            | [2023](https://sulab-sever.u-aizu.ac.jp/ACNS2023/cfp.html)   *            | 20         | LNCS, SC   | [2015](http://acns2015.cs.columbia.edu/cfp/)                             | N    | N         |
-| 18  | IEEE DSN        | [2023](https://dsn2023.dei.uc.pt/calls_cfp-research.html)         (§)     | 11         | IEEE, DC   | [2019](https://2019.dsn.org/cfpapers.html)                               | N    | N         |
-| 20  | CHES            | [2023](https://ches.iacr.org/2023/cfp-ches2023.pdf)         (§)           | 40         | LNCS, SC   | [2015](https://www.cryptoexperts.com/ches2015/pdf/ches2015-CfPapers.pdf) | N    | N         |
+
 
 
 
