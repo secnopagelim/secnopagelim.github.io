@@ -18,7 +18,7 @@ I simply take all well-known venues (i.e., conferences, workshops or symposia) a
 The list is provided in the table below. I only included "active" venues, i.e., those for which an event is either planned, or has already been held, in the current year.
 For each conference that has "unlimited" pages, the table also reports: the link to the most recent CfP, the amount of "base" pages (i.e., those subject to limitations), the template (DC=Double Column), the year in which the venue started to accept unlimited "extra" pages (since 2011), whether the venue accepts Systematization of Knowledge (SoK) papers, and whether the venue has a (dedicated) Artifact evaluation.
 
-**Note:** I will also include venues that accept "unlimited" pages _at the time of submission_, but for which the final paper must fit within a specified limit (this is the case, e.g., for USENIX Security). These special cases are marked with an asterisk "*".
+**Note:** I will also include venues that accept "unlimited" pages _at the time of submission_, but for which the final paper must fit within a specified limit (this is the case, e.g., for USENIX Security). These special cases are marked with an asterisk "(*)". The order is completely random.
 
 
 
