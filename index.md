@@ -51,7 +51,7 @@ For each conference that has "unlimited" pages, the table also reports: the link
 {:.table-bordered}
 
 
-I will update this list regularly, but feel free to [email me](mailto:giovanni.apruzzese@uni.li) if you spot a mistake (e.g., a missing venue), or if you want to "refresh" it sooner. (Last update: September 28th, 2022)
+I will update this list regularly, but feel free to [email me](mailto:giovanni.apruzzese@uni.li) if you spot a mistake (e.g., a missing venue), or if you want to "refresh" it sooner. (Last update: September 30th, 2022)
 
 
 ### Why?
@@ -100,3 +100,5 @@ For completeness, below is a table of those (*active*) conferences (listed in [J
 | 22  | _IEEE CNS_      |        [2022](https://cns2022.ieee-cns.org/submission-instructions)        |     9      | IEEE, DC |             |      |           |
 {:.table}
 {:.table-bordered}
+
+(last update: September 30th, 2022)
