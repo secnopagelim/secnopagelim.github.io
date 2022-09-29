@@ -33,14 +33,14 @@ For each conference that has "unlimited" pages, the table also reports: the link
 |  6  | _IEEE CSF_      |        [2023](https://www.ieee-security.org/TC/CSF2023/cfp.html)         |     12     | IEEE, DC   |         [2011](http://csf2011.inria.fr/call-for-papers.html)          |  ✔   |           |
 |  7  | _SOUPS_         |   [2022](https://www.usenix.org/conference/soups2022/call-for-papers)    |     12     | USENIX, DC |          [2011](http://cups.cs.cmu.edu/soups/2011/cfp.html)           |  ✔   |           |
 |  8  | _IEEE SaTML_    |                [2022](https://satml.org/participate-cfp/)                |     12     | IEEE, DC   |              [2022](https://satml.org/participate-cfp/)               |  ✔   |           |
-|  9  | _PKC_           |           [2024](https://pkc.iacr.org/2023/callforpapers.php)            |     30     | LNCS, SC   |  [2011](https://www.iacr.org/workshops/pkc2011/Call_for_Papers.html)  |      |           |
+|  9  | _PKC_           |           [2023](https://pkc.iacr.org/2023/callforpapers.php)            |     30     | LNCS, SC   |  [2011](https://www.iacr.org/workshops/pkc2011/Call_for_Papers.html)  |      |           |
 | 10  | _AsiaCrypt_     |        [2022](https://asiacrypt.iacr.org/2022/callforpapers.php)         |     30     | LNCS, SC   |      [2013](https://www.iacr.org/conferences/asiacrypt2013/cfp/)      |      |           |
-| 11  | _IFCA FC_       |                   [2022](http://fc23.ifca.ai/cfp.html)                   |     15     | LNCS, SC   |                 [2015](http://fc15.ifca.ai/cfp.html)                  |      |           |
+| 11  | _IFCA FC_       |                   [2022](http://fc23.ifca.ai/cfp.html)                   |     15     | LNCS, SC   |                 [2015](http://fc15.ifca.ai/cfp.html)                  |   ✔   |           |
 | 12  | _TCC_           |          [2022](https://tcc.iacr.org/2022/papersubmission.php)           |     15     | LNCS, SC   |        [2011](https://www.iacr.org/workshops/tcc2011/cfp.html)        |      |           |
-| 13  | _CANS_          |          [2022](https://www.cans2022.com/call-for-paper.php)           |     20     | LNCS, SC   |        [2022](https://www.cans2022.com/call-for-paper.php)       |      |           |
+| 13  | _CANS_          |           [2022](https://www.cans2022.com/call-for-paper.php)            |     20     | LNCS, SC   |          [2022](https://www.cans2022.com/call-for-paper.php)          |      |           |
 | 14  | _IEEE SecDev_   |               [2022](https://secdev.ieee.org/2022/papers)                |     6      | IEEE, DC   |             [2019](https://secdev.ieee.org/2019/papers/)              |      |           |
 | 15  | _IEEE PRDC_     |         [2022](http://prdc.dependability.org/PRDC2022/cfp.html)          |     10     | IEEE, DC   |        [2022](http://prdc.dependability.org/PRDC2022/cfp.html)        |      |           |
-| 16  | _ARES_          |           [2022](https://www.ares-conference.eu/submission/)            |     10     | 10, DC     |          [2022](https://www.ares-conference.eu/submission/)           |  ✔   |           |
+| 16  | _ARES_          |            [2022](https://www.ares-conference.eu/submission/)            |     10     | 10, DC     |          [2022](https://www.ares-conference.eu/submission/)           |  ✔   |           |
 | 17  | _FSE_           |           [2023](https://fse.iacr.org/2023/callforpapers.php)            |     20     | LNCS, SC   |          [2022](https://fse.iacr.org/2022/files/cfp_21.pdf)           |  ✔   |           |
 | 18  | _Eurocrypt_(*)  |       [2023](https://eurocrypt.iacr.org/2023/papersubmission.php)        |     30     | LNCS, SC   |    [2011](https://www.iacr.org/conferences/eurocrypt2011/cfp.php)     |      |           |
 | 19  | _USENIX SEC_(*) | [2023](https://www.usenix.org/sites/default/files/sec23_cfp_092722.pdf)  |     13     | USENIX, DC |  [2011](https://www.usenix.org/legacy/events/sec11/cfp/sec11cfp.pdf)  |      |     ✔     |
@@ -76,27 +76,27 @@ For completeness, below is a table of those (*active*) conferences (listed in [J
 
 |  #  | Venue (Acronym) |                                  CfP Link                                  | Base Pages | Template | Extra Pages | SoK? | Artifact? |
 |:---:|-----------------|:--------------------------------------------------------------------------:|:----------:|----------|:-----------:|:----:|:---------:|
-|  1  | _IEEE S&P_      |       [2023](https://www.ieee-security.org/TC/SP2023/cfpapers.html)        |     13     | IEEE, DC |      5      |   ✔   |           |
-|  2  | _ESORICS_         |            [2022](https://esorics2022.compute.dtu.dk/cfp.html)             |     16     | LNCS, SC |      4      |      |           |
-|  3  | _ACSAC_           |                       [2022](https://www.acsac.org/)                       |     10     | ACM, DC  |      5      |      |   ✔        |
-|  4  | _ACM AsiaCCS_     |        [2023](https://asiaccs2023.org/datescalls/call-for-papers/)         |     12     | ACM, DC  |      3      |  ✔    |           |
-|  5  | _ACM WiSec_       |           [2022](https://wisec2022.cs.utsa.edu/call-for-papers/)           |     10     | ACM, DC  |      5      |      |         ✔  |
-|  6  | _CHES_            |           [2023](https://ches.iacr.org/2023/cfp-ches2023-v3.pdf)           |     40     | LNCS, SC |          |      |    ✔       |
-|  7  | _ACM CODASPY_     |                [2023](http://www.codaspy.org/2023/cfp.html)                |     12     | ACM, DC  |          |      |           |
-|  8  | _CPSS_            |      [2022](https://illinois.adsc.com.sg/CPSS2022/CPSS%20CFP2022.pdf)      |     12     | ACM, DC  |          |    ✔  |           |
-|  9  | _ACM SACMAT_      |         [2022](https://sacmat.dista.uninsubria.it/2022/papers.php)         |     12     | ACM, DC  |          |      |           |
-| 10  | _ACISP_           |            [2022](https://uow-ic2.github.io/acisp2022/cfp.html)            |     20     | LNCS, SC |          |    ✔  |           |
-| 11  | _AfricaCrypt_     |             [2022](https://africacrypt2022.cs.ru.nl/cfp.html)              |     25     | LNCS, SC |          |  ✔    |           |
-| 12  | _COSADE_          |              [2023](https://www.cosade.org/cosade23/cfp.html)              |     18     | LNCS, SC |      *      |      |           |
-| 13  | _CRISIS_          |                 [2022](https://www.crisis2022.redcad.org/)                 |     16     | LNCS, SC |             |      |           |
-| 14  | _DIMVA_           |                 [2022](https://sites.unica.it/dimva2022/)                  |     20     | LNCS, SC |             |      |           |
-| 15  | _SRDS_            |           [2022](https://srds-conference.org/calls/papers.html)            |     10     | IEEE, DC |      *      |      |           |
-| 16  | _DSN_             |         [2023](https://dsn2023.dei.uc.pt/calls_cfp-research.html)          |     11     | IEEE, DC |      *      |      |           |
-| 17  | _SecureComm_      | [2023](https://securecomm.eai-conferences.org/2022/submission/#authorskit) |     16     | LNCS, SC |      *      |      |           |
-| 18  | _IFIPSEC_         |   [2022](https://ifipsec2022.compute.dtu.dk/file/IFIPSEC2022-Flyer.pdf)    |     16     | LNCS, SC |             |      |           |
-| 19  | _VizSec_          |                 [2022](https://vizsec.org/vizsec2022/#cfp)                 |     9      | IEEE, DC |      2      |      |           |
-| 20  | _IEEE TrustCom_   | [2022](http://www.ieee-hust-ncc.org/2022/TrustCom/TrustCom%202022CFP.pdf)  |     8      | IEEE, DC |             |      |           |
-| 21  | _ACM SEC@SAC_     |           [2023](https://www.dmi.unict.it/giamp/sac/cfp2023.php)           |     8      | ACM, DC  |      2      |      |           |
-| 22  | _IEEE CNS_        |           [2022](https://cns2022.ieee-cns.org/submission-instructions)           |     9      | IEEE, DC |            |      |           |
+|  1  | _IEEE S&P_      |       [2023](https://www.ieee-security.org/TC/SP2023/cfpapers.html)        |     13     | IEEE, DC |      5      |  ✔   |           |
+|  2  | _ESORICS_       |            [2022](https://esorics2022.compute.dtu.dk/cfp.html)             |     16     | LNCS, SC |      4      |      |           |
+|  3  | _ACSAC_         |                       [2022](https://www.acsac.org/)                       |     10     | ACM, DC  |      5      |      |     ✔     |
+|  4  | _ACM AsiaCCS_   |        [2023](https://asiaccs2023.org/datescalls/call-for-papers/)         |     12     | ACM, DC  |      3      |  ✔   |           |
+|  5  | _ACM WiSec_     |           [2022](https://wisec2022.cs.utsa.edu/call-for-papers/)           |     10     | ACM, DC  |      5      |      |     ✔     |
+|  6  | _CHES_          |           [2023](https://ches.iacr.org/2023/cfp-ches2023-v3.pdf)           |     40     | LNCS, SC |             |      |     ✔     |
+|  7  | _ACM CODASPY_   |                [2023](http://www.codaspy.org/2023/cfp.html)                |     12     | ACM, DC  |             |      |           |
+|  8  | _CPSS_          |      [2022](https://illinois.adsc.com.sg/CPSS2022/CPSS%20CFP2022.pdf)      |     12     | ACM, DC  |             |  ✔   |           |
+|  9  | _ACM SACMAT_    |         [2022](https://sacmat.dista.uninsubria.it/2022/papers.php)         |     12     | ACM, DC  |             |      |           |
+| 10  | _ACISP_         |            [2022](https://uow-ic2.github.io/acisp2022/cfp.html)            |     20     | LNCS, SC |             |  ✔   |           |
+| 11  | _AfricaCrypt_   |             [2022](https://africacrypt2022.cs.ru.nl/cfp.html)              |     25     | LNCS, SC |             |  ✔   |           |
+| 12  | _COSADE_        |              [2023](https://www.cosade.org/cosade23/cfp.html)              |     18     | LNCS, SC |      *      |      |           |
+| 13  | _CRISIS_        |                 [2022](https://www.crisis2022.redcad.org/)                 |     16     | LNCS, SC |             |      |           |
+| 14  | _DIMVA_         |                 [2022](https://sites.unica.it/dimva2022/)                  |     20     | LNCS, SC |             |      |           |
+| 15  | _SRDS_          |           [2022](https://srds-conference.org/calls/papers.html)            |     10     | IEEE, DC |      *      |      |           |
+| 16  | _DSN_           |         [2023](https://dsn2023.dei.uc.pt/calls_cfp-research.html)          |     11     | IEEE, DC |      *      |      |           |
+| 17  | _SecureComm_    | [2023](https://securecomm.eai-conferences.org/2022/submission/#authorskit) |     16     | LNCS, SC |      *      |      |           |
+| 18  | _IFIPSEC_       |   [2022](https://ifipsec2022.compute.dtu.dk/file/IFIPSEC2022-Flyer.pdf)    |     16     | LNCS, SC |             |      |           |
+| 19  | _VizSec_        |                 [2022](https://vizsec.org/vizsec2022/#cfp)                 |     9      | IEEE, DC |      2      |      |           |
+| 20  | _IEEE TrustCom_ | [2022](http://www.ieee-hust-ncc.org/2022/TrustCom/TrustCom%202022CFP.pdf)  |     8      | IEEE, DC |             |      |           |
+| 21  | _ACM SEC@SAC_   |           [2023](https://www.dmi.unict.it/giamp/sac/cfp2023.php)           |     8      | ACM, DC  |      2      |      |           |
+| 22  | _IEEE CNS_      |        [2022](https://cns2022.ieee-cns.org/submission-instructions)        |     9      | IEEE, DC |             |      |           |
 {:.table}
 {:.table-bordered}
