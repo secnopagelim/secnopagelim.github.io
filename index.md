@@ -65,7 +65,7 @@ As all such considerations are personal, I will not discuss them here: feel free
 
 ### Conferences with Page Limits
 
-For completeness, below is a table of those (*active*) conferences (listed in [Jianying Zhou ranking](http://jianying.space/conference-ranking.html)) that, at the time of writing **have page limits** for their appendices (if any). For each "limited" venue, the table reports: the latest CfP, the length of base pages, the template, the length of "extra" pages (appendices or references---an asterisk * denotes unlimited pages for references), and whether it accepts SoK and Artifacts.  
+For completeness, below is a table of those (*active*) conferences (listed in [Jianying Zhou ranking](http://jianying.space/conference-ranking.html)) that, at the time of writing, **have page limits** for their appendices (if any). For each "limited" venue, the table reports: the latest CfP, the length of base pages, the template, the length of "extra" pages (appendices or references---an asterisk * denotes unlimited pages for references), and whether it accepts SoK and Artifacts.  
 
 **Note:** the table below is still under construction and some venues may be missing. Since the priority of this website is on _unlimited_ papers, I will maintain the table below with less effort.
 
