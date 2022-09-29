@@ -83,7 +83,7 @@ For completeness, below is a table of those (*active*) conferences (listed in [J
 |  5  | _ACM WiSec_     |           [2022](https://wisec2022.cs.utsa.edu/call-for-papers/)           |     10     | ACM, DC  |      5      |      |     ✔     |
 |  6  | _CHES_          |           [2023](https://ches.iacr.org/2023/cfp-ches2023-v3.pdf)           |     40     | LNCS, SC |             |      |     ✔     |
 |  7  | _ACM CODASPY_   |                [2023](http://www.codaspy.org/2023/cfp.html)                |     12     | ACM, DC  |             |      |           |
-|  8  | _CPSS_          |      [2022](https://illinois.adsc.com.sg/CPSS2022/CPSS%20CFP2022.pdf)      |     12     | ACM, DC  |             |  ✔   |           |
+|  8  | _ACM CPSS_      |      [2022](https://illinois.adsc.com.sg/CPSS2022/CPSS%20CFP2022.pdf)      |     12     | ACM, DC  |             |  ✔   |           |
 |  9  | _ACM SACMAT_    |         [2022](https://sacmat.dista.uninsubria.it/2022/papers.php)         |     12     | ACM, DC  |             |      |           |
 | 10  | _ACISP_         |            [2022](https://uow-ic2.github.io/acisp2022/cfp.html)            |     20     | LNCS, SC |             |  ✔   |           |
 | 11  | _AfricaCrypt_   |             [2022](https://africacrypt2022.cs.ru.nl/cfp.html)              |     25     | LNCS, SC |             |  ✔   |           |
