@@ -1,0 +1,44 @@
+(-) S&P (Oakland)
+(+) ACM CCS
+(+) USENIX Security
+(+) NDSS
+(+) Crypto
+(+) Eurocrypt
+(-) ESORICS
+(+) RAID
+(-) ACSAC
+(-) DSN
+(+) IMC
+(-) ACM ASIACCS
+(+) PETS
+(+) EuroS&P
+(+) CSF
+(+) Asiacrypt
+(+) TCC
+(-) CHES
+(-) SecureComm
+(-) CNS
+(-) DIMVA
+(+) ACNS
+(-) SAC
+(-) ACISP
+(-) ICICS
+(-) ISC
+(+) ICISC
+(-) SACMAT
+(-) IFIP SEC
+(-) WiSec
+(+) SOUPS
+(-) IFIP WG 11.9
+(-) DFRWS
+(-) CODASPY
+?MALCON--
+(+) FSE
+(+) PKC
+(+) FC
+(-) CT-RSA
+HOST
+HotSec
+NSPW
+IH&MMSec
+IWIA
