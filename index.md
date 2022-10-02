@@ -98,3 +98,9 @@ For completeness, below is a table of those venues that, at the time of writing,
 {:.table-bordered}
 
 (last update: October 1st, 2022)
+
+
+#### Long lists
+
+I am also curating a "longer" list of all venues, which is accessible at this page: [LongList]({{ BASE_PATH }}/pages/long.md)
+[Guogei Gu]({{ BASE_PATH }}/pages/guofeigu.txt)
