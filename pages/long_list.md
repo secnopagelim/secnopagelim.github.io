@@ -1,23 +1,22 @@
 ---
 layout: page
-title: Security Venues with No Page-Limit
-tagline:  A short list
-description: This website lists all Cybersecurity venues that do not impose any limit to the length of the References/Appendices in the submitted papers
+title: All Security Venues with No Page-Limit 
+tagline:  A long list
+description: This webpage lists all (ttbomk) security venues without (and with) page limits
 ---
 
+This section of the website is an "extended" version of the list in the main page. Specifically, instead of using just the conferences listed by Guofei Gu, I will consider *all* the venues in: [Jianying Zhou ranking](http://jianying.space/conference-ranking.html) (I looked through _all_ the venues listed therein, not just the top20).
 
-### What?
+These lists will be updated less frequently, due to the larger amount of effort required to keep track of all these venues.
 
-This website contains a comprehensive list of _all_ cybersecurity venues that accept papers without any limit to the amount of pages dedicated to **references** _and_ **appendices**.
+As usual, feel free to [email me](mailto:giovanni.apruzzese@uni.li) if you spot a mistake (e.g., a missing venue), or if you want to "refresh" it sooner. (Last update: October 1st, 2022)
 
-#### How?
+### Venues with NO page limits
+The list is provided in the table below. I only included "active" venues, i.e., those for which an event is either planned, or has already been held, in the current year (i.e., 2022).
 
-I simply take consider well-known venues (i.e., conferences, workshops or symposia) and check their Call for Papers (CfP): if such CfP specify that there is no limit for appendices/references, then I will list them in this website. Specifically, the list of venues is taken from this source: [Guofei Gu ranking](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm).
+For each conference that has "unlimited" pages, the table also reports: the link to the most recent CfP, the amount of "base" pages (i.e., those subject to limitations), the template (DC=Double Column), the year in which the venue started to accept unlimited "extra" pages (since 2011), whether the venue accepts Systematization of Knowledge (SoK) papers, and whether the venue has a (dedicated) Artifact evaluation.
 
-### List
-The list is provided in the table below. For each conference that has "unlimited" pages, the table also reports: the link to the most recent CfP, the amount of "base" pages (i.e., those subject to limitations), the template (DC=Double Column), the year in which the venue started to accept unlimited "extra" pages (since 2011), whether the venue accepts Systematization of Knowledge (SoK) papers, and whether the venue has a (dedicated) Artifact evaluation.
-
-**Note:** I will also include venues that accept "unlimited" pages _at the time of submission_, but for which the final paper must fit within a specified limit (this is the case, e.g., for USENIX Security). These special cases are marked with an asterisk "(*)". I will report them in the order they appear in [Guofei Gu ranking](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm) (the only venue reported in this table and not listed in that ranking is IEEE SaTML, since it's completely new). 
+**Note:** I will also include venues that accept "unlimited" pages _at the time of submission_, but for which the final paper must fit within a specified limit (this is the case, e.g., for USENIX Security). These special cases are marked with an asterisk "(*)". 
 
 
 
@@ -49,23 +48,14 @@ The list is provided in the table below. For each conference that has "unlimited
 {:.table}
 {:.table-bordered}
 
-I will update this list regularly, but feel free to [email me](mailto:giovanni.apruzzese@uni.li) if you spot a mistake (e.g., a missing venue), or if you want to "refresh" it sooner.
 
 
-### Why?
-This website was inspired by the "Rump Session" of the 7th [IEEE European Symposium on Security and Privacy](https://www.ieee-security.org/TC/EuroSP2022/program.html) (held on Wednesday, June 8th). In the few hours before the Rump Session I came up with a "draft" version of the website, which consisted in a simple Google Sheet (accessible at this link: [https://tinyurl.com/noapplim](https://tinyurl.com/noapplim)) that I shared with the attendees of the Rump Session. For various reasons, I decided to "upgrade" such version into a more comprehensive website, i.e., this one.
 
-The main reason is to _help cybersecurity researchers in choosing to which venue_ they should submit a given work---since having plenty of space for appendices may be a deciding factor. To the best of my knowledge, there are no resources that aggregate all such information in a single list.
+### Conferences with Page Limits
 
-Nonetheless, there are deeper reasons that motivated me in creating this website, albeit most of them are subjective and stem from my (recent, and arguably little) experience---both as a reviewer, and as an author. Put simply, it is to _send a message to our community_. 
-As all such considerations are personal, I will not discuss them here: feel free to read them in the dedicated [blog-post that I made on my personal website](https://www.giovanniapruzzese.com/posts/2022/secnopagelim).
+For completeness, below is a table of those (*active*) conferences (listed in [Jianying Zhou ranking](http://jianying.space/conference-ranking.html)) that, at the time of writing, **have page limits** for their appendices (if any). For each "limited" venue, the table reports: the latest CfP, the length of base pages, the template, the length of "extra" pages (appendices or references---an asterisk * denotes unlimited pages for references), and whether it accepts SoK and Artifacts.  
 
-
-### Venues with Page Limits
-
-For completeness, below is a table of those venues that, at the time of writing, **have page limits** for their appendices (if any). For each "limited" venue, the table reports: the latest CfP, the length of base pages, the template, the length of "extra" pages (appendices or references---an asterisk * denotes unlimited pages for references), and whether it accepts SoK and Artifacts.  
-
-**Note:** the entries of this list are also taken from [Guofei Gu rankings](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm), and the ordering also reflects the one shown in the source list.
+**Note:** the table below is still under construction and some venues may be missing. Since the priority of this website is on _unlimited_ papers, I will maintain the table below with less effort.
 
 
 
@@ -99,4 +89,4 @@ For completeness, below is a table of those venues that, at the time of writing,
 {:.table}
 {:.table-bordered}
 
-(last update: October 1st, 2022)
+(last update: September 30th, 2022)
