@@ -60,7 +60,7 @@ As all such considerations are personal, I will not discuss them here: feel free
 
 ### Venues with Page Limits
 
-For completeness, below is a table of those venues (from [Guofei Gu rankings](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm)) that, at the time of writing, **have page limits** for their appendices (if any). For each "limited" venue, the table reports: the latest CfP, the length of base pages, the template, the length of "extra" pages (appendices or references---an asterisk * denotes unlimited pages for references), and whether it accepts SoK and Artifacts. (credit to [David Evans](https://www.cs.virginia.edu/~evans/) for recommending to include also this table!)
+For completeness, below is a table of those venues (also from [Guofei Gu rankings](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm)) that, at the time of writing, **have page limits** for their appendices (if any). For each "limited" venue, the table reports: the latest CfP, the length of base pages, the template, the length of "extra" pages (for appendices and/or references---an asterisk * denotes unlimited pages for references), and whether it accepts SoK and Artifacts. (credit to [David Evans](https://www.cs.virginia.edu/~evans/) for recommending to include also this table!)
 
 |  #  | Venue (Acronym) |                                  CfP Link                                  | Base Pages | Template | Extra Pages | SoK? | Artifact? |
 |:---:|-----------------|:--------------------------------------------------------------------------:|:----------:|----------|:-----------:|:----:|:---------:|
