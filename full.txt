@@ -1,0 +1,123 @@
+Legend: a (-) denotes "limited" venues, whereas (+) denotes "unlimited" venues
+
+TOP 20:
+
+(-) IEEE S&P
+(+) USENIX Sec
+(+) ACM CCS
+(+) NDSS
+(+) Eurocrypt
+(+) Crypto
+(-) CHES
+(+) IEEE EuroS&P
+(-) ACSAC
+(+) AsiaCrypt
+(+) FC
+(-) ESORICS
+(+) ACNS
+(-) ACM AsiaCCS
+(+) RAID
+(+) PKC
+(-) CT-RSA
+(+) IEEE CSF
+(-) ACM WiSec
+(+) TCC
+
+Others:
+(-) ACM-CODASPY
+(-) ACM-CPSS
+(-) ACM-SACMAT
+(-) ACISP
+(-) Africacrypt
+(+) AReS
+(+) CANS
+CBC
+CECC
+CISIS
+(-) COSADE
+(-) CRiSIS
+CRITIS
+DFRWS
+(-) DIMVA
+DPM
+ECC
+EDCC
+ESCAR
+ESSoS
+EuroSec
+FDTC
+FPS
+FSE
+GameSec
+ICDF2C
+ICICS
+ICIMP
+ICISC
+ICISS
+ICISSP
+ICS-CSR
+(-) IEEE-CNS
+IEEE-DASC
+IEEE-DSC
+IEEE-HASE
+IEEE-HOST
+IEEE-HST
+IEEE-Malware
+IEEE-PAC
+(+) IEEE SaTML
+(+) IEEE-PRDC
+IEEE-QRS
+(+) IEEE-SecDev
+(-) IEEE-TrustCom
+IEEE/IFIP-DSN
+IFIP-CIP
+IFIP-DBSec
+IFIP-DF
+IFIP-HAISA
+IFIP-NTMS
+IFIP-Sec
+IFIP-TM
+IMACC
+Indocrypt
+Inscrypt
+ISC
+ISPEC
+ITC
+IWDW
+IWSEC
+Latincrypt
+NordSec
+NSPW
+NSS
+Pairing
+(+) PETS
+PQCrypto
+ProvSec
+PSD
+PST
+QCrypt
+RFIDsec
+RWC
+SAFECOMP
+(-) ACM SAC
+SAM
+SCIS
+SCN
+SECITC
+SECRYPT
+(-) SecureComm
+SecurWare
+SIN
+(+) SOUPS
+SPACE
+SPW
+(-) SRDS
+SSS
+TRUST
+TrustBus
+(-) VizSec
+WCC
+WEIS
+WISA
+WISTP
+YACC
