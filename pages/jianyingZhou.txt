@@ -79,50 +79,50 @@ Others:
 (N/A) NTMS
 (-) Sec
 (N/A) TM
-IMACC
-Indocrypt
-Inscrypt
+(N/A) IMACC
+(-) Indocrypt
+(-) Inscrypt
 (-) ISC
-ISPEC
-ITC
-IWDW
-IWSEC
-Latincrypt
-NordSec
+(-) ISPEC
+(+) ITC
+(-) IWDW
+(-) IWSEC
+(N/A) Latincrypt
+(N/A) NordSec
 (-) NSPW
-NSS
-Pairing
+(-) NSS
+(-) Pairing
 (+) PETS
-PQCrypto
-ProvSec
-PSD
-PST
-QCrypt
-RFIDsec
-RWC
-SAFECOMP
+(+) PQCrypto
+(+) ProvSec
+(-) PSD
+(-) PST
+(N/A) QCrypt [extended abstracts]
+(N/A) RFIDsec
+(-) RWC
+(-) SAFECOMP
 (-) ACM SAC
-SAM
-SCIS
-SCN
-SECITC
-SECRYPT
+(-) SAM
+(-) SCIS
+(+) SCN
+(-) SECITC
+(-) SECRYPT
 (-) SecureComm
-SecurWare
-SIN
+(-) SecurWare
+(-) SIN
 (+) SOUPS
-SPACE
-SPW
+(+) SPACE
+(N/A) SPW
 (-) SRDS
-SSS
-TRUST
-TrustBus
+(+) SSS
+(N/A) TRUST
+(-) TrustBus
 (-) VizSec
-WCC
-WEIS
-WISA
-WISTP
-YACC
+(N/A) WCC [extended abstract]
+(N/A) WEIS
+(-) WISA
+(N/A) WISTP
+(N/A) YACC
 
 
 #### UNLIMITED ####
@@ -145,7 +145,23 @@ TOP 20:
 
 Others:
 
-
+(+) AReS
+(+) CANS
+(+) CISIS
+(+) FSE
+(+) ICISC
+(+) HST
+(+) SaTML
+(+) PRDC
+(+) SecDev
+(+) ITC
+(+) PETS
+(+) PQCrypto
+(+) ProvSec
+(+) SCN
+(+) SOUPS
+(+) SPACE
+(+) SSS
 
 
 
@@ -162,11 +178,88 @@ TOP 20:
 (-) ACM WiSec
 
 Others:
+(-) CODASPY
+(-) CPSS
+(-) SACMAT
+(-) ACISP
+(-) Africacrypt
+(-) COSADE
+(-) CRiSIS
+(-) CRITIS
+(-) DFRWS
+(-) DIMVA
+(-) DPM
+(-) EDCC
+(-) ESCAR
+(-) EuroSec
+(-) FDTC
+(-) FPS
+(-) GameSec
+(-) ICDF2C
+(-) ICICS
+(-) ICIMP
+(-) ICISS
+(-) ICISSP
+(-) IEEE-CNS
+(-) DASC
+(-) DSC
+(-) HOST
+(-) QRS
+(-) TrustCom
+(-) DSN
+(-) DBSec
+(-) DF
+(-) HAISA
+(-) Sec
+(-) Indocrypt
+(-) Inscrypt
+(-) ISC
+(-) ISPEC
+(-) IWDW
+(-) IWSEC
+(-) NSPW
+(-) NSS
+(-) Pairing
+(-) PSD
+(-) PST
+(-) RWC
+(-) SAFECOMP
+(-) ACM SAC
+(-) SAM
+(-) SCIS
+(-) SECITC
+(-) SECRYPT
+(-) SecureComm
+(-) SecurWare
+(-) SIN
+(-) SRDS
+(-) TrustBus
+(-) VizSec
+(-) WISA
 
 
 
+#### INACTIVE / EXCLUDED ####
 
-
-
-
-#### INACTIVE ####
+(N/A) CBC
+(N/A) CECC
+(N/A) ECC
+(N/A) ESSoS
+(N/A) ICS-CSR
+(N/A) HASE
+(N/A) Malware
+(N/A) PAC
+(?) CIP
+(N/A) NTMS
+(N/A) TM
+(N/A) IMACC
+(N/A) Latincrypt
+(N/A) NordSec
+(N/A) QCrypt [extended abstracts]
+(N/A) RFIDsec
+(N/A) SPW
+(N/A) TRUST
+(N/A) WCC [extended abstract]
+(N/A) WEIS
+(N/A) WISTP
+(N/A) YACC
