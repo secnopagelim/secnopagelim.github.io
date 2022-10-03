@@ -9,7 +9,7 @@ This section of the website is an "extended" version of the list in the [homepag
 
 These lists will be updated less frequently, due to the larger amount of effort required to keep track of all these venues.
 
-As usual, feel free to [email me](mailto:giovanni.apruzzese@uni.li) if you spot a mistake (e.g., a missing venue), or if you want to "refresh" it sooner. (Last update: October 1st, 2022)
+As usual, feel free to [email me](mailto:giovanni.apruzzese@uni.li) if you spot a mistake (e.g., a missing venue), or if you want to "refresh" it sooner.
 
 ### Venues with NO page limits
 The list is provided in the table below. I only included "active" venues, i.e., those for which an event is either planned, or has already been held, in the current year (i.e., 2022). Refer to [this document for]({{ BASE_PATH }}/pages/jianyingZhou.txt) included/excluded) (the [Jianying Zhou's rankings](http://jianying.space/conference-ranking.html) have 117 venues in total: the top20, and 96 others; of these, 21 are excluded).
