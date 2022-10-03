@@ -26,59 +26,59 @@ TOP 20:
 (+) TCC
 
 Others:
-(-) ACM-CODASPY
-(-) ACM-CPSS
-(-) ACM-SACMAT
+(-) CODASPY
+(-) CPSS
+(-) SACMAT
 (-) ACISP
 (-) Africacrypt
 (+) AReS
 (+) CANS
-CBC
-CECC
-CISIS
+(N/A) CBC
+(N/A) CECC
+(+) CISIS
 (-) COSADE
 (-) CRiSIS
-CRITIS
-DFRWS
+(-) CRITIS
+(-) DFRWS
 (-) DIMVA
-DPM
-ECC
-EDCC
-ESCAR
-ESSoS
-EuroSec
-FDTC
-FPS
-FSE
-GameSec
-ICDF2C
-ICICS
-ICIMP
-ICISC
-ICISS
-ICISSP
-ICS-CSR
+(-) DPM
+(N/A) ECC
+(-) EDCC
+(-) ESCAR
+(N/A) ESSoS
+(-) EuroSec
+(-) FDTC
+(-) FPS
+(+) FSE
+(-) GameSec
+(-) ICDF2C
+(-) ICICS
+(-) ICIMP
+(+) ICISC
+(-) ICISS
+(-) ICISSP
+(N/A) ICS-CSR
 (-) IEEE-CNS
-IEEE-DASC
-IEEE-DSC
-IEEE-HASE
-IEEE-HOST
-IEEE-HST
-IEEE-Malware
-IEEE-PAC
-(+) IEEE SaTML
-(+) IEEE-PRDC
-IEEE-QRS
-(+) IEEE-SecDev
-(-) IEEE-TrustCom
-IEEE/IFIP-DSN
-IFIP-CIP
-IFIP-DBSec
-IFIP-DF
-IFIP-HAISA
-IFIP-NTMS
-IFIP-Sec
-IFIP-TM
+DASC
+DSC
+HASE
+(-) HOST
+HST
+(N/A) Malware
+PAC
+(+) SaTML
+(+) PRDC
+QRS
+(+) SecDev
+(-) TrustCom
+DSN
+CIP
+DBSec
+DF
+HAISA
+NTMS
+Sec
+TM
 IMACC
 Indocrypt
 Inscrypt
