@@ -12,7 +12,7 @@ These lists will be updated less frequently, due to the larger amount of effort 
 As usual, feel free to [email me](mailto:giovanni.apruzzese@uni.li) if you spot a mistake (e.g., a missing venue), or if you want to "refresh" it sooner.
 
 ### Venues with NO page limits
-The list is provided in the table below. I only included "active" venues, i.e., those for which an event is either planned, or has already been held, in the current year (i.e., 2022). Refer to [this document for]({{ BASE_PATH }}/pages/jianyingZhou.txt) included/excluded) (the [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html) has 117 venues in total: the top20, and 96 others; of these, 21 are excluded).
+The list is provided in the table below. I only included "active" venues, i.e., those for which an event is either planned, or has already been held, in the current year (i.e., 2022). Refer to [this document]({{ BASE_PATH }}/pages/jianyingZhou.txt) for included/excluded venues (the [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html) has 117 venues in total: the top20, and 96 others; of these, 21 are excluded).
 
 For each conference that has "unlimited" pages, the table also reports: the link to the most recent CfP, the amount of "base" pages (i.e., those subject to limitations), the template (DC=Double Column), the year in which the venue started to accept unlimited "extra" pages (since 2011), whether the venue accepts Systematization of Knowledge (SoK) papers, and whether the venue has a (dedicated) Artifact evaluation.
 
@@ -43,7 +43,7 @@ For each conference that has "unlimited" pages, the table also reports: the link
 |     | _IMC_           |             [2022](https://conferences.sigcomm.org/imc/2022/cfp/)              |     13     | ACM, DC    |         [2017](https://conferences.sigcomm.org/imc/2017/cfp/)          |      |           |
 |     | _ITC_           |            [2022](https://itcrypto.github.io/2022/2022submit.html)             |     10     | LNCS, SC   |           [2020](https://itcrypto.github.io/2020/2020.html)            |      |           |
 |     | _PETS_          |      [2023](https://petsymposium.org/authors23.php#submission-guidelines)      |     12     | PETS, DC   |  [2023](https://petsymposium.org/authors23.php#submission-guidelines)  |  ✔   |           |
-|     | _PQCrypto_  (*) |                       [2022](https://2022.pqcrypto.org/)                       |     20     | LNCS, SC   |                 [2016](https://pqcrypto2016.jp/call/)                  |      |           |
+|     | _PQCrypto_(*)   |                       [2022](https://2022.pqcrypto.org/)                       |     20     | LNCS, SC   |                 [2016](https://pqcrypto2016.jp/call/)                  |      |           |
 |     | _PRDC_          |            [2022](http://prdc.dependability.org/PRDC2022/cfp.html)             |     10     | IEEE, DC   |        [2022](http://prdc.dependability.org/PRDC2022/cfp.html)         |      |           |
 |     | _ProvSec_       |              [2022](https://provsec2022.github.io/ProvSec2022/#)               |     24     | LNCS, SC   | [2011](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=12704) |      |           |
 |     | _SaTML_         |                   [2022](https://satml.org/participate-cfp/)                   |     12     | IEEE, DC   |               [2022](https://satml.org/participate-cfp/)               |  ✔   |           |
