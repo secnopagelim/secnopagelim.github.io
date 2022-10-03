@@ -11,7 +11,7 @@ These lists will be updated less frequently, due to the larger amount of effort 
 
 As usual, feel free to [email me](mailto:giovanni.apruzzese@uni.li) if you spot a mistake (e.g., a missing venue), or if you want to "refresh" it sooner.
 
-### Venues with NO page limits
+### Venues with NO page limits (30)
 The list is provided in the table below. I only included "active" venues, i.e., those for which an event is either planned, or has already been held, in the current year (i.e., 2022). Refer to [this document]({{ BASE_PATH }}/pages/jianyingZhou.txt) for included/excluded venues (the [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html) has 117 venues in total: the top20, and 96 others; of these, 21 are excluded).
 
 For each conference that has "unlimited" pages, the table also reports: the link to the most recent CfP, the amount of "base" pages (i.e., those subject to limitations), the template (DC=Double Column), the year in which the venue started to accept unlimited "extra" pages (since 2011), whether the venue accepts Systematization of Knowledge (SoK) papers, and whether the venue has a (dedicated) Artifact evaluation.
@@ -34,7 +34,7 @@ For each conference that has "unlimited" pages, the table also reports: the link
 | 11  | _PKC_           |              [2023](https://pkc.iacr.org/2023/callforpapers.php)               |     30     | LNCS, SC   |  [2011](https://www.iacr.org/workshops/pkc2011/Call_for_Papers.html)   |      |           |
 | 12  | _CSF_           |           [2023](https://www.ieee-security.org/TC/CSF2023/cfp.html)            |     12     | IEEE, DC   |          [2011](http://csf2011.inria.fr/call-for-papers.html)          |  ✔   |           |
 | 13  | _TCC_           |             [2022](https://tcc.iacr.org/2022/papersubmission.php)              |     15     | LNCS, SC   |        [2011](https://www.iacr.org/workshops/tcc2011/cfp.html)         |      |           |
-|     | _ARES_          |               [2022](https://www.ares-conference.eu/submission/)               |     10     | ACM, DC    |           [2022](https://www.ares-conference.eu/submission/)           |  ✔   |           |
+|     | _ARES_          |               [2022](https://www.ares-conference.eu/wp-content/uploads/2022/03/CfP-ARES-2022-extended.txt)               |     10     | ACM, DC    |           [2022](https://www.ares-conference.eu/wp-content/uploads/2022/03/CfP-ARES-2022-extended.txt)           |  ✔   |           |
 |     | _CANS_          |              [2022](https://www.cans2022.com/call-for-paper.php)               |     20     | LNCS, SC   |          [2022](https://www.cans2022.com/call-for-paper.php)           |      |           |
 |     | _CISIS_         |          [2022](http://www.2022.cisisconference.eu/call-for-papers/)           |     12     | LNCS, SC   | [2015](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=42394) |      |           |
 |     | _FSE_           |              [2023](https://fse.iacr.org/2023/callforpapers.php)               |     20     | LNCS, SC   |           [2022](https://fse.iacr.org/2022/files/cfp_21.pdf)           |  ✔   |           |
@@ -58,7 +58,7 @@ For each conference that has "unlimited" pages, the table also reports: the link
 
 
 
-### Venues WITH page limits
+### Venues WITH page limits (67)
 
 For completeness, below is a table of those venues (also from [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html)) that, at the time of writing, **have page limits** for their appendices (if any). For each "limited" venue, the table reports: the latest CfP, the length of base pages, the template, the length of "extra" pages (for appendices and/or references---an asterisk * denotes unlimited pages for references), and whether it accepts SoK and Artifacts.
 
