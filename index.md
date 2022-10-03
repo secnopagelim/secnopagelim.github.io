@@ -73,7 +73,7 @@ For completeness, below is a table of those venues (also from [Guofei Gu ranking
 |  7  | _SecureComm_    | [2023](https://securecomm.eai-conferences.org/2022/submission/#authorskit) |     16     | LNCS, SC |      *      |      |           |
 |  8  | _CNS_           |        [2022](https://cns2022.ieee-cns.org/submission-instructions)        |     9      | IEEE, DC |             |      |           |
 |  9  | _DIMVA_         |                 [2022](https://sites.unica.it/dimva2022/)                  |     20     | LNCS, SC |             |      |           |
-| 10  | _SEC@SAC_       |           [2023](https://www.dmi.unict.it/giamp/sac/cfp2023.php)           |     8      | ACM, DC  |      2      |      |           |
+| 10  | _SAC_       |           [2023](https://www.dmi.unict.it/giamp/sac/cfp2023.php)           |     8      | ACM, DC  |      2      |      |           |
 | 11  | _ACISP_         |            [2022](https://uow-ic2.github.io/acisp2022/cfp.html)            |     20     | LNCS, SC |             |  ✔   |           |
 | 12  | _ICICS_         |       [2022](https://icics2022.cyber.kent.ac.uk/call_for_papers.php)       |     16     | LNCS, SC |      2      |      |     ✔     |
 | 13  | _ISC_           |              [2022](https://isc2022.petra.ac.id/callforpaper)              |     20     | LNCS, SC |             |      |           |
