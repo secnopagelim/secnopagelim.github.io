@@ -1,7 +1,7 @@
 ---
 layout: page
-title: All Security Venues with No Page-Limit 
-tagline:  A long list
+title: Security Venues with No Page-Limit 
+tagline:  a LONG list
 description: This webpage lists all (ttbomk) security venues without (and with) page limits
 ---
 
