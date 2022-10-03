@@ -5,7 +5,7 @@ tagline:  a LONG list
 description: This webpage lists all (ttbomk) security venues without (and with) page limits
 ---
 
-This section of the website is an "extended" version of the list in the [homepage]({{ BASE_PATH }}). Specifically, instead of using just the venues listed by Guofei Gu (44 in total), I will report *all* the venues considered in the [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html) alongside all those in the homepage (97 venues in total are listed in this page).
+This section of the website is an "extended" version of the list in the [homepage]({{ BASE_PATH }}). Specifically, instead of using just the venues listed by Guofei Gu (44 in total), I will report *all* the venues considered in the [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html) alongside all those in the homepage (96 venues in total are listed in this page).
 
 These lists will be updated less frequently, due to the larger amount of effort required to keep track of all these venues.
 
@@ -49,8 +49,8 @@ For each conference that has "unlimited" pages, the table also reports: the link
 |     | _SaTML_         |                          [2022](https://satml.org/participate-cfp/)                          |     12     | IEEE, DC   |                          [2022](https://satml.org/participate-cfp/)                          |  ✔   |           |
 |     | _SCN_           |                [2022](https://scn.unisa.it/scn22/index.php/call-for-papers/)                 |     24     | LNCS, SC   |                          [2014](http://scn14.di.unisa.it/cfp.shtml)                          |      |           |
 |     | _SecDev_        |                         [2022](https://secdev.ieee.org/2022/papers)                          |     6      | IEEE, DC   |                         [2019](https://secdev.ieee.org/2019/papers/)                         |      |           |
-|     | _SPACE_         |        [2022](https://drive.google.com/file/d/1ZFLoT8UWitx53JhhAsk4-6WhDdkPpA4X/view)        |     20     | LNCS, SC   |                      [2015](https://cse.iitkgp.ac.in/conf/SPACE2015/#)                       |      |           |
 |     | _SOUPS_         |             [2022](https://www.usenix.org/conference/soups2022/call-for-papers)              |     12     | USENIX, DC |                      [2011](http://cups.cs.cmu.edu/soups/2011/cfp.html)                      |  ✔   |           |
+|     | _SPACE_         |        [2022](https://drive.google.com/file/d/1ZFLoT8UWitx53JhhAsk4-6WhDdkPpA4X/view)        |     20     | LNCS, SC   |                      [2015](https://cse.iitkgp.ac.in/conf/SPACE2015/#)                       |      |           |
 |     | _SSS_           |                          [2022](https://sss2022.limos.fr/cfp.html)                           |     15     | LNCS, SC   |                          [2022](https://sss2022.limos.fr/cfp.html)                           |      |           |
 {:.table}
 {:.table-bordered}
@@ -58,11 +58,11 @@ For each conference that has "unlimited" pages, the table also reports: the link
 
 
 
-### Venues WITH page limits (67)
+### Venues WITH page limits (66)
 
 For completeness, below is a table of those venues (also from [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html)) that, at the time of writing, **have page limits** for their appendices (if any). For each "limited" venue, the table reports: the latest CfP, the length of base pages, the template, the length of "extra" pages (for appendices and/or references---an asterisk * denotes unlimited pages for references), and whether it accepts SoK and Artifacts.
 
-**Note:** The ordering of the venues is the same as in [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html); venues outside the top20 are listed alphabetically. Overall, the following table includes 67 venues, of which 57 are from [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html) and 10 are from [Guofei Gu ranking](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm).
+**Note:** The ordering of the venues is the same as in [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html); venues outside the top20 are listed alphabetically. Overall, the following table includes 66 venues, of which 56 are from [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html) and 10 are from [Guofei Gu ranking](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm).
 
 
 |  #  | Venue (Acronym) |                                              CfP Link                                               | Base Pages | Template  | Extra Pages | SoK? | Artifact? |
@@ -76,7 +76,6 @@ For completeness, below is a table of those venues (also from [Jianying Zhou's r
 |  7  | _WiSec_         |                       [2022](https://wisec2022.cs.utsa.edu/call-for-papers/)                        |     10     | ACM, DC   |      5      |  ✔   |     ✔     |
 |     | _ACISP_         |                        [2022](https://uow-ic2.github.io/acisp2022/cfp.html)                         |     20     | LNCS, SC  |             |  ✔   |           |
 |     | _AfricaCrypt_   |                          [2022](https://africacrypt2022.cs.ru.nl/cfp.html)                          |     25     | LNCS, SC  |             |  ✔   |           |
-|     | _DFRWS_         |                          [2023](https://dfrws.org/submission-criteria-eu/)                          |     10     | IEEE, DC  |      *      |      |           |
 |     | _CNS_           |                    [2022](https://cns2022.ieee-cns.org/submission-instructions)                     |     9      | IEEE, DC  |             |      |           |
 |     | _CODASPY_       |                            [2023](http://www.codaspy.org/2023/cfp.html)                             |     12     | ACM, DC   |      2      |      |           |
 |     | _COSADE_        |                          [2023](https://www.cosade.org/cosade23/cfp.html)                           |     18     | LNCS, SC  |      *      |      |           |
@@ -86,11 +85,11 @@ For completeness, below is a table of those venues (also from [Jianying Zhou's r
 |     | _DASC_          |                      [2022](https://2022.dasconline.org/author-instructions/)                       |     10     | IEEE, DC  |             |      |           |
 |     | _DBSec_         |                            [2022](http://cs.iit.edu/~dbsec2022/cfp.html)                            |     16     | LNCS, SC  |      4      |      |           |
 |     | _DF_            |                   [2023](http://www.ifip119.org/Conferences/WG11-9-CFP-2023.pdf)                    |     25     | LNCS, SC  |             |      |           |
+|     | _DFRWS_         |                          [2023](https://dfrws.org/submission-criteria-eu/)                          |     10     | IEEE, DC  |      *      |      |           |
 |     | _DIMVA_         |                              [2022](https://sites.unica.it/dimva2022/)                              |     20     | LNCS, SC  |             |      |           |
+|     | _DPM_           |           [2022](https://deic.uab.cat/conferences/dpm/dpm2022/resources/cfp-dpm2022.txt)            |     16     | LNCS, SC  |             |      |           |
 |     | _DSC_           |                  [2023](https://attend.ieee.org/dsc-2022/#Submission-Instructions)                  |     8      | IEEE, DC  |      2      |      |           |
 |     | _DSN_           |                      [2023](https://dsn2023.dei.uc.pt/calls_cfp-research.html)                      |     11     | IEEE, DC  |      *      |      |           |
-|     | _DFRWS_         |                          [2022](https://dfrws.org/submission-criteria-eu/)                          |     10     | IEEE, DC  |      *      |      |           |
-|     | _DPM_           |           [2022](https://deic.uab.cat/conferences/dpm/dpm2022/resources/cfp-dpm2022.txt)            |     16     | LNCS, SC  |             |      |           |
 |     | _EDCC_          |                     [2022](https://webdiis.unizar.es/EDCC22/callforpapers.html)                     |     8      | IEEE, DC  |             |      |           |
 |     | _ESCAR_         |             [2022](https://www.escar.info/images/pdf/Call_for_Papers_escar_Europe.pdf)              |     15     | ESCAR, SC |             |      |           |
 |     | _EuroSec_       |                          [2022](https://concordia-h2020.eu/eurosec-2022/)                           |     6      | ACM, DC   |      *      |      |           |
@@ -108,8 +107,8 @@ For completeness, below is a table of those venues (also from [Jianying Zhou's r
 |     | _IHMMSEC_       |                 [2022](https://www.ihmmsec.org/cms/upload/docs/IHMMSEC2022_CFP.pdf)                 |     12     | ACM, DC   |             |      |           |
 |     | _IndoCrypt_     |                          [2022](https://www.tcgcrest.org/call-for-papers/)                          |     20     | LNCS, SC  |      *      |      |           |
 |     | _InsCrypt_      |                       [2022](http://www.sklois.cn/inscrypt2022/#/submission)                        |     20     | LNCS, SC  |             |      |           |
-|     | _ISPEC_         |                           [2022](https://ispec2022.ndhu.edu.tw/cfp.html)                            |     16     | LNCS, SC  |      4      |      |           |
 |     | _ISC_           |                          [2022](https://isc2022.petra.ac.id/callforpaper)                           |     20     | LNCS, SC  |             |      |           |
+|     | _ISPEC_         |                           [2022](https://ispec2022.ndhu.edu.tw/cfp.html)                            |     16     | LNCS, SC  |      4      |      |           |
 |     | _IWDW_          |                               [2022](http://iwdw.site/callPaper.html)                               |     15     | LNCS, SC  |             |      |           |
 |     | _IWSEC_         |                             [2022](https://www.iwsec.org/2022/cfp.html)                             |     16     | LNCS, SC  |     20      |      |           |
 |     | _NSPW_          |                                [2022](https://www.nspw.org/2022/cfp)                                |     15     | LNCS, SC  |             |      |           |
