@@ -1,5 +1,7 @@
 Legend: a (-) denotes "limited" venues, whereas (+) denotes "unlimited" venues
 
+#### ALL ####
+
 TOP 20:
 
 (-) IEEE S&P
@@ -121,3 +123,50 @@ WEIS
 WISA
 WISTP
 YACC
+
+
+#### UNLIMITED ####
+
+TOP 20:
+
+(+) USENIX Sec
+(+) ACM CCS
+(+) NDSS
+(+) Eurocrypt
+(+) Crypto
+(+) IEEE EuroS&P
+(+) AsiaCrypt
+(+) FC
+(+) ACNS
+(+) RAID
+(+) PKC
+(+) IEEE CSF
+(+) TCC
+
+Others:
+
+
+
+
+
+
+
+#### LIMITED ####
+TOP 20:
+(-) IEEE S&P
+(-) CHES
+(-) ACSAC
+(-) ESORICS
+(-) ACM AsiaCCS
+(-) CT-RSA
+(-) ACM WiSec
+
+Others:
+
+
+
+
+
+
+
+#### INACTIVE ####
