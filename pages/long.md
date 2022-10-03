@@ -5,7 +5,7 @@ tagline:  A long list
 description: This webpage lists all (ttbomk) security venues without (and with) page limits
 ---
 
-This section of the website is an "extended" version of the list in the [homepage]({{ BASE_PATH }}) of this website. Specifically, instead of using just the venues listed by Guofei Gu (44 in total), I will report *all* the venues considered in the [Jianying Zhou's rankings](http://jianying.space/conference-ranking.html) (117 in total: the top20, and 96 others + SaTML).
+This section of the website is an "extended" version of the list in the [homepage]({{ BASE_PATH }}). Specifically, instead of using just the venues listed by Guofei Gu (44 in total), I will report *all* the venues considered in the [Jianying Zhou's rankings](http://jianying.space/conference-ranking.html) (117 in total: the top20, and 96 others) alongside all those in the homepage.
 
 These lists will be updated less frequently, due to the larger amount of effort required to keep track of all these venues.
 
@@ -38,8 +38,9 @@ For each conference that has "unlimited" pages, the table also reports: the link
 | 13  | _TCC_           |          [2022](https://tcc.iacr.org/2022/papersubmission.php)           |     15     | LNCS, SC   |        [2011](https://www.iacr.org/workshops/tcc2011/cfp.html)         |      |           |
 |     | _ARES_          |            [2022](https://www.ares-conference.eu/submission/)            |     10     | ACM, DC    |           [2022](https://www.ares-conference.eu/submission/)           |  ✔   |           |
 |     | _CANS_          |           [2022](https://www.cans2022.com/call-for-paper.php)            |     20     | LNCS, SC   |          [2022](https://www.cans2022.com/call-for-paper.php)           |      |           |
-|     | _CISIS_         |           [2022](http://www.2022.cisisconference.eu/call-for-papers/)            |     12     | LNCS, SC   |          [2015](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=42394)           |      |           |
+|     | _CISIS_         |           [2022](http://www.2022.cisisconference.eu/call-for-papers/)            |     12     | LNCS, SC   | [2015](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=42394) |      |           |
 |     | _FSE_           |           [2023](https://fse.iacr.org/2023/callforpapers.php)            |     20     | LNCS, SC   |           [2022](https://fse.iacr.org/2022/files/cfp_21.pdf)           |  ✔   |           |
+|     | _HST_           |   [2022](https://ieee-hst.org/finalpaper.htm)    |     7      | IEEE, DC   |                                   ?                                    |      |           |
 |     | _ICISC_         |            [2022](http://www.icisc.org/static/callforpapers)             |     20     | LNCS, SC   | [2011](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=17239) |      |           |
 |     | _IMC_           |          [2022](https://conferences.sigcomm.org/imc/2022/cfp/)           |     13     | ACM, DC    |         [2017](https://conferences.sigcomm.org/imc/2017/cfp/)          |      |           |
 |     | _PETS_          |   [2023](https://petsymposium.org/authors23.php#submission-guidelines)   |     12     | PETS, DC   |  [2023](https://petsymposium.org/authors23.php#submission-guidelines)  |  ✔   |           |
@@ -78,7 +79,11 @@ For completeness, below is a table of those venues (also from [Jianying Zhou's r
 |     | _CPSS_          |        [2022](https://illinois.adsc.com.sg/CPSS2022/CPSS%20CFP2022.pdf)        |     12     | ACM, DC   |             |  ✔   |           |
 |     | _CRISIS_        |                   [2022](https://www.crisis2022.redcad.org/)                   |     16     | LNCS, SC  |             |      |           |
 |     | _CRITIS_        |                  [2022](https://critis2022.comtessa.org/cfp)                   |     20     | LNCS, SC  |             |      |           |
+|     | _DASC_          |            [2022](https://2022.dasconline.org/author-instructions/)            |     10     | IEEE, DC  |             |      |           |
+|     | _DBSec_         |                 [2022](http://cs.iit.edu/~dbsec2022/cfp.html)                  |     16     | LNCS, SC  |      4      |      |           |
+|     | _DF_            |         [2023](http://www.ifip119.org/Conferences/WG11-9-CFP-2023.pdf)         |     25     | LNCS, SC  |            |      |           |
 |     | _DIMVA_         |                   [2022](https://sites.unica.it/dimva2022/)                    |     20     | LNCS, SC  |             |      |           |
+|     | _DSC_           |       [2023](https://attend.ieee.org/dsc-2022/#Submission-Instructions)        |     8      | IEEE, DC  |      2      |      |           |
 |     | _DSN_           |           [2023](https://dsn2023.dei.uc.pt/calls_cfp-research.html)            |     11     | IEEE, DC  |      *      |      |           |
 |     | _DFRWS_         |               [2022](https://dfrws.org/submission-criteria-eu/)                |     10     | IEEE, DC  |      *      |      |           |
 |     | _DPM_           | [2022](https://deic.uab.cat/conferences/dpm/dpm2022/resources/cfp-dpm2022.txt) |     16     | LNCS, SC  |             |      |           |
@@ -88,16 +93,18 @@ For completeness, below is a table of those venues (also from [Jianying Zhou's r
 |     | _FDTC_          |               [2022](https://fdtc.deib.polimi.it/FDTC22/cfp.pdf)               |     12     | LNCS, SC  |             |     |           |
 |     | _FPS_           |                     [2022](https://www.fps-2022.com/cfp/)                      |     16     | LNCS, SC  |             |     |           |
 |     | _GameSec_       |                [2022](https://www.gamesec-conf.org/papers.php)                 |     20     | LNCS, SC  |             |     |           |
+|     | _HAISA_         |            [2022](https://haisa.org/?page=cfp)             |     10     | LNCS, SC  |            |      |           |
 |     | _HOST_          |            [2023](http://www.hostsymposium.org/call-for-paper.php)             |     10     | IEEE, DC  |      *      |      |           |
 |     | _ICDF2C_        |        [2022](https://icdf2c.eai-conferences.org/2022/call-for-papers/)        |     15     | LNCS, SC  |             |      |           |
 |     | _ICICS_         |         [2022](https://icics2022.cyber.kent.ac.uk/call_for_papers.php)         |     16     | LNCS, SC  |      2      |      |     ✔     |
 |     | _ICIMP_         |         [2023](https://www.iaria.org/conferences2023/CfPICIMP23.html)          |     6      | IEEE, DC  |      4      |      |           |
 |     | _ICISS_         |                  [2022](https://www.icissconf.org/calls.html)                  |     20     | LNCS, SC  |             |      |           |
 |     | _ICISSP_        |             [2023](https://icissp.scitevents.org/Guidelines.aspx)              |     10     | SciPr, DC |      3      |      |           |
-|     | _IFIP SEC_      |     [2022](https://ifipsec2022.compute.dtu.dk/file/IFIPSEC2022-Flyer.pdf)      |     16     | LNCS, SC  |             |      |           |
+|     | _(IFIP) SEC_    |     [2022](https://ifipsec2022.compute.dtu.dk/file/IFIPSEC2022-Flyer.pdf)      |     16     | LNCS, SC  |             |      |           |
 |     | _IHMMSEC_       |      [2022](https://www.ihmmsec.org/cms/upload/docs/IHMMSEC2022_CFP.pdf)       |     12     | ACM, DC   |             |      |           |
 |     | _ISC_           |                [2022](https://isc2022.petra.ac.id/callforpaper)                |     20     | LNCS, SC  |             |      |           |
 |     | _NSPW_          |                     [2022](https://www.nspw.org/2022/cfp)                      |     15     | ACM, DC   |             |      |           |
+|     | _QRS_           |        [2022](https://qrs22.techconf.org/download/01-CFP-QRS-2022.pdf)         |     12     | IEEE, DC  |             |      |           |
 |     | _SAC_           |             [2023](https://www.dmi.unict.it/giamp/sac/cfp2023.php)             |     8      | ACM, DC   |      2      |      |           |
 |     | _SACMAT_        |           [2022](https://sacmat.dista.uninsubria.it/2022/papers.php)           |     12     | ACM, DC   |             |      |           |
 |     | _SecureComm_    |   [2023](https://securecomm.eai-conferences.org/2022/submission/#authorskit)   |     16     | LNCS, SC  |      *      |      |           |

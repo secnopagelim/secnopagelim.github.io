@@ -59,37 +59,37 @@ Others:
 (-) ICISSP
 (N/A) ICS-CSR
 (-) IEEE-CNS
-DASC
-DSC
-HASE
+(-) DASC
+(-) DSC
+(N/A) HASE
 (-) HOST
-HST
+(+) HST
 (N/A) Malware
-PAC
+(N/A) PAC
 (+) SaTML
 (+) PRDC
-QRS
+(-) QRS
 (+) SecDev
 (-) TrustCom
-DSN
-CIP
-DBSec
-DF
-HAISA
-NTMS
-Sec
-TM
+(-) DSN
+(?) CIP
+(-) DBSec
+(-) DF
+(-) HAISA
+(N/A) NTMS
+(-) Sec
+(N/A) TM
 IMACC
 Indocrypt
 Inscrypt
-ISC
+(-) ISC
 ISPEC
 ITC
 IWDW
 IWSEC
 Latincrypt
 NordSec
-NSPW
+(-) NSPW
 NSS
 Pairing
 (+) PETS
