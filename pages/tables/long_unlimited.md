@@ -30,6 +30,7 @@
 |     | _SecDev_        |                         [2022](https://secdev.ieee.org/2022/papers)                          |     6      | IEEE, DC   |                         [2019](https://secdev.ieee.org/2019/papers/)                         |      |           |
 |     | _SOUPS_         |             [2022](https://www.usenix.org/conference/soups2022/call-for-papers)              |     12     | USENIX, DC |                      [2011](http://cups.cs.cmu.edu/soups/2011/cfp.html)                      |  ✔   |           |
 |     | _SPACE_         |        [2022](https://drive.google.com/file/d/1ZFLoT8UWitx53JhhAsk4-6WhDdkPpA4X/view)        |     20     | LNCS, SC   |                      [2015](https://cse.iitkgp.ac.in/conf/SPACE2015/#)                       |      |           |
+|     | _SRDS_          |                    [2022](https://srds-conference.org/calls/papers.html)                     |     10     | IEEE, DC   |                    [2022](https://srds-conference.org/calls/papers.html)                     |      |           |
 |     | _SSS_           |                          [2022](https://sss2022.limos.fr/cfp.html)                           |     15     | LNCS, SC   |                          [2022](https://sss2022.limos.fr/cfp.html)                           |      |           |
 {:.table}
 {:.table-bordered}

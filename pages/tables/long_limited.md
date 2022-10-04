@@ -62,7 +62,6 @@
 |     | _SecurWare_     |                  [2023](https://www.iaria.org/conferences2023/CfPSECURWARE23.html)                  |     6      | IEEE, DC  |      4      |      |           |
 |     | _SecureComm_    |             [2023](https://securecomm.eai-conferences.org/2022/submission/#authorskit)              |     16     | LNCS, SC  |      *      |      |           |
 |     | _SIN_           |                            [2022](https://www.sinconf.org/sin2022/#call)                            |     8      | IEEE, DC  |             |      |           |
-|     | _SRDS_          |                        [2022](https://srds-conference.org/calls/papers.html)                        |     10     | IEEE, DC  |      *      |      |           |
 |     | _TrustCom_      |              [2022](http://www.ieee-hust-ncc.org/2022/TrustCom/TrustCom%202022CFP.pdf)              |     8      | IEEE, DC  |             |      |           |
 |     | _TrustBus_      |                         [2022](https://www.dexa.org/cameraready_submission)                         |     12     | LNCS, SC  |      3      |      |           |
 |     | _VizSec_        |                             [2022](https://vizsec.org/vizsec2022/#cfp)                              |     9      | IEEE, DC  |      2      |      |           |
