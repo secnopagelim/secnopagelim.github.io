@@ -46,9 +46,6 @@ The list is provided in the table below. For each conference that has "unlimited
 {:.table}
 {:.table-bordered}
 
-
-{% include base_path/pages/tables/unlimited_short.md %}
-
 I will update this list regularly, but feel free to [email me](mailto:giovanni.apruzzese@uni.li) if you spot a mistake (e.g., a missing venue), or if you want to "refresh" it sooner.
 
 
