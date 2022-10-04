@@ -11,12 +11,12 @@ These lists will be updated less frequently, due to the larger amount of effort 
 
 As usual, feel free to [email me](mailto:giovanni.apruzzese@uni.li) if you spot a mistake (e.g., a missing venue), or if you want to "refresh" it sooner.
 
-### Venues with NO page limits (30)
+### Venues with NO page limits (31)
 The list is provided in the table below. I only included "active" venues, i.e., those for which an event is either planned, or has already been held, in the current year (i.e., 2022). Refer to [this document]({{ BASE_PATH }}/pages/jianyingZhou.txt) for included/excluded venues (the [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html) has 117 venues in total: the top20, and 96 others; of these, 21 are excluded).
 
 For each conference that has "unlimited" pages, the table also reports: the link to the most recent CfP, the amount of "base" pages (i.e., those subject to limitations), the template (DC=Double Column), the year in which the venue started to accept unlimited "extra" pages (since 2011), whether the venue accepts Systematization of Knowledge (SoK) papers, and whether the venue has a (dedicated) Artifact evaluation.
 
-**Note:** I will also include venues that accept "unlimited" pages _at the time of submission_, but for which the final paper must fit within a specified limit (e.g., for USENIX Security); such venues are marked with an asterisk "(*)". The ordering of the venues is the same as in [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html); venues outside the top20 are listed alphabetically (the only venue reported in this table and not listed in that ranking is IEEE SaTML, since it's completely new). Overall, the following table has 30 papers.
+**Note:** I will also include venues that accept "unlimited" pages _at the time of submission_, but for which the final paper must fit within a specified limit (e.g., for USENIX Security); such venues are marked with an asterisk "(*)". The ordering of the venues is the same as in [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html); venues outside the top20 are listed alphabetically (the only venue reported in this table and not listed in that ranking is IEEE SaTML, since it's completely new). Overall, the following table has 31 papers.
 
 
 |  #  | Venue (Acronym) |                                           CfP Link                                           | Base Pages | Template   |                                            Since                                             | SoK? | Artifact? |
@@ -51,6 +51,7 @@ For each conference that has "unlimited" pages, the table also reports: the link
 |     | _SecDev_        |                         [2022](https://secdev.ieee.org/2022/papers)                          |     6      | IEEE, DC   |                         [2019](https://secdev.ieee.org/2019/papers/)                         |      |           |
 |     | _SOUPS_         |             [2022](https://www.usenix.org/conference/soups2022/call-for-papers)              |     12     | USENIX, DC |                      [2011](http://cups.cs.cmu.edu/soups/2011/cfp.html)                      |  ✔   |           |
 |     | _SPACE_         |        [2022](https://drive.google.com/file/d/1ZFLoT8UWitx53JhhAsk4-6WhDdkPpA4X/view)        |     20     | LNCS, SC   |                      [2015](https://cse.iitkgp.ac.in/conf/SPACE2015/#)                       |      |           |
+|     | _SRDS_          |                        [2022](https://srds-conference.org/calls/papers.html)                        |     10     | IEEE, DC  |                                               [2022](https://srds-conference.org/calls/papers.html)                                               |      |           |
 |     | _SSS_           |                          [2022](https://sss2022.limos.fr/cfp.html)                           |     15     | LNCS, SC   |                          [2022](https://sss2022.limos.fr/cfp.html)                           |      |           |
 {:.table}
 {:.table-bordered}
@@ -58,11 +59,11 @@ For each conference that has "unlimited" pages, the table also reports: the link
 
 
 
-### Venues WITH page limits (66)
+### Venues WITH page limits (65)
 
 For completeness, below is a table of those venues (also from [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html)) that, at the time of writing, **have page limits** for their appendices (if any). For each "limited" venue, the table reports: the latest CfP, the length of base pages, the template, the length of "extra" pages (for appendices and/or references---an asterisk * denotes unlimited pages for references), and whether it accepts SoK and Artifacts.
 
-**Note:** The ordering of the venues is the same as in [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html); venues outside the top20 are listed alphabetically. Overall, the following table includes 66 venues, of which 56 are from [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html) and 10 are from [Guofei Gu ranking](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm).
+**Note:** The ordering of the venues is the same as in [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html); venues outside the top20 are listed alphabetically. Overall, the following table includes 65 venues, of which 55 are from [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html) and 10 are from [Guofei Gu ranking](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm).
 
 
 |  #  | Venue (Acronym) |                                              CfP Link                                               | Base Pages | Template  | Extra Pages | SoK? | Artifact? |
@@ -128,7 +129,6 @@ For completeness, below is a table of those venues (also from [Jianying Zhou's r
 |     | _SecurWare_     |                  [2023](https://www.iaria.org/conferences2023/CfPSECURWARE23.html)                  |     6      | IEEE, DC  |      4      |      |           |
 |     | _SecureComm_    |             [2023](https://securecomm.eai-conferences.org/2022/submission/#authorskit)              |     16     | LNCS, SC  |      *      |      |           |
 |     | _SIN_           |                            [2022](https://www.sinconf.org/sin2022/#call)                            |     8      | IEEE, DC  |             |      |           |
-|     | _SRDS_          |                        [2022](https://srds-conference.org/calls/papers.html)                        |     10     | IEEE, DC  |      *      |      |           |
 |     | _TrustCom_      |              [2022](http://www.ieee-hust-ncc.org/2022/TrustCom/TrustCom%202022CFP.pdf)              |     8      | IEEE, DC  |             |      |           |
 |     | _TrustBus_      |                         [2022](https://www.dexa.org/cameraready_submission)                         |     12     | LNCS, SC  |      3      |      |           |
 |     | _VizSec_        |                             [2022](https://vizsec.org/vizsec2022/#cfp)                              |     9      | IEEE, DC  |      2      |      |           |
