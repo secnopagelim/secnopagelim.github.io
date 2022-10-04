@@ -46,7 +46,7 @@ The list is provided in the table below. For each conference that has "unlimited
 {:.table}
 {:.table-bordered}
 
-I will update this list regularly, but feel free to [email me](mailto:giovanni.apruzzese@uni.li) if you spot a mistake (e.g., a missing venue), or if you want to "refresh" it sooner.
+I will update this list regularly, but feel free to [email me](mailto:giovanni.apruzzese@uni.li) if you spot a mistake (e.g., a missing venue), or if you want to refresh it sooner. Please include "[SNPL]" in the subject of the email (I will give proper credit to any contribution!).
 
 
 ### Why?
