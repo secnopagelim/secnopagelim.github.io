@@ -20,8 +20,7 @@ For each conference that has "unlimited" pages, the table also reports: the link
 
 
 {% include_relative tables/long_unlimited.md %}
-{:.table}
-{:.table-bordered}
+
 
 
 
