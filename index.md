@@ -47,4 +47,4 @@ For completeness, below is a table of those venues (also from [Guofei Gu ranking
 
 #### Long lists
 
-I am also curating a "longer" list of all venues, accessible at the following page: [Long List]({{ BASE_PATH }}/pages/long)
+I am also curating a "longer" list of all venues, which is accessible at the following page: [Long List]({{ BASE_PATH }}/pages/long)
