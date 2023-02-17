@@ -42,7 +42,7 @@ For completeness, below is a table of those venues (also from [Guofei Gu ranking
 
 {% include_relative pages/tables/short_limited.md %}
 
-(last update: October 1st, 2022)
+(last update: February 17th, 2023)
 
 
 #### Long lists

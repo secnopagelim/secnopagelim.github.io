@@ -1,0 +1,108 @@
+List of venues in Guofei Gu's rankings (as of October 1st, 2022)
+Legend: a (-) denotes "limited" venues, whereas (+) denotes "unlimited" venues. N/A denotes excluded venues
+
+#### ALL ####
+
+(-) S&P (Oakland)
+(+) ACM CCS
+(+) USENIX Security
+(+) NDSS
+(+) Crypto
+(+) Eurocrypt
+(-) ESORICS
+(+) RAID
+(-) ACSAC
+(-) DSN
+(+) IMC
+(-) ACM ASIACCS
+(+) PETS
+(+) EuroS&P
+(+) CSF
+(+) Asiacrypt
+(+) TCC
+(-) CHES
+(-) SecureComm
+(-) CNS
+(-) DIMVA
+(+) ACNS
+(-) SAC
+(-) ACISP
+(-) ICICS
+(-) ISC
+(+) ICISC
+(-) SACMAT
+(-) IFIP SEC
+(-) WiSec
+(+) SOUPS
+(-) IFIP WG 11.9
+(-) DFRWS
+(-) CODASPY
+(N/A) MALCON
+(+) FSE
+(+) PKC
+(+) FC
+(-) CT-RSA
+(-) HOST
+(N/A) HotSec
+(-) NSPW
+(-) IH&MMSec
+(N/A) IWIA
+
+
+
+
+
+#### UNLIMITED ####
+(+) ACM CCS
+(+) USENIX Security
+(+) NDSS
+(+) Crypto
+(+) Eurocrypt
+(+) RAID
+(+) IMC
+(+) PETS
+(+) EuroS&P
+(+) CSF
+(+) Asiacrypt
+(+) TCC
+(+) ACNS
+(+) ICISC
+(+) SOUPS
+(+) FSE
+(+) PKC
+(+) FC
+
+
+#### LIMITED ####
+(-) S&P (Oakland)
+(-) ESORICS
+(-) ACSAC
+(-) DSN
+(-) ACM ASIACCS
+(-) CHES
+(-) SecureComm
+(-) CNS
+(-) DIMVA
+(-) SAC
+(-) ACISP
+(-) ICICS
+(-) ISC
+(-) SACMAT
+(-) IFIP SEC
+(-) WiSec
+(-) IFIP WG 11.9
+(-) DFRWS
+(-) CODASPY
+(-) CT-RSA
+(-) HOST
+(-) NSPW
+(-) IH&MMSec
+
+
+
+#### INACTIVE ####
+(N/A) MALCON
+(N/A) HotSec
+(N/A) IWIA
+
+

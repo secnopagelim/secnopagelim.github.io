@@ -1,0 +1,266 @@
+List of venues in Jianying Zhou's rankings (as of October 4th, 2022)
+Legend: a (-) denotes "limited" venues, whereas (+) denotes "unlimited" venues. N/A denotes excluded venues
+
+#### ALL ####
+
+TOP 20:
+
+(-) IEEE S&P
+(+) USENIX Sec
+(+) NDSS
+(+) ACM CCS
+(+) Eurocrypt
+(+) Crypto
+(-) CHES
+(+) IEEE EuroS&P
+(-) ACSAC
+(+) AsiaCrypt
+(+) FC
+(+) ACNS
+(-) ACM AsiaCCS
+(-) ESORICS
+(+) PKC
+(+) RAID
+(-) CT-RSA
+(+) IEEE CSF
+(-) ACM WiSec
+(+) TCC
+
+Others:
+(-) CODASPY
+(-) CPSS
+(-) SACMAT
+(-) ACISP
+(-) Africacrypt
+(+) AReS
+(+) CANS
+(N/A) CBC
+(N/A) CECC
+(+) CISIS
+(-) COSADE
+(-) CRiSIS
+(-) CRITIS
+(-) DFRWS
+(-) DIMVA
+(-) DPM
+(N/A) ECC
+(-) EDCC
+(-) ESCAR
+(N/A) ESSoS
+(-) EuroSec
+(-) FDTC
+(-) FPS
+(+) FSE
+(-) GameSec
+(-) ICDF2C
+(-) ICICS
+(-) ICIMP
+(+) ICISC
+(-) ICISS
+(-) ICISSP
+(N/A) ICS-CSR
+(-) IEEE-CNS
+(-) DASC
+(-) DSC
+(N/A) HASE
+(-) HOST
+(+) HST
+(N/A) Malware
+(N/A) PAC
+(+) SaTML
+(+) PRDC
+(-) QRS
+(+) SecDev
+(-) TrustCom
+(-) DSN
+(?) CIP
+(-) DBSec
+(-) DF
+(-) HAISA
+(N/A) NTMS
+(-) Sec
+(N/A) TM
+(N/A) IMACC
+(-) Indocrypt
+(-) Inscrypt
+(-) ISC
+(-) ISPEC
+(+) ITC
+(-) IWDW
+(-) IWSEC
+(N/A) Latincrypt
+(N/A) NordSec
+(-) NSPW
+(-) NSS
+(-) Pairing
+(+) PETS
+(+) PQCrypto
+(+) ProvSec
+(-) PSD
+(-) PST
+(N/A) QCrypt [extended abstracts]
+(N/A) RFIDsec
+(-) RWC
+(-) SAFECOMP
+(-) ACM SAC
+(-) SAM
+(-) SCIS
+(+) SCN
+(-) SECITC
+(-) SECRYPT
+(-) SecureComm
+(-) SecurWare
+(-) SIN
+(+) SOUPS
+(+) SPACE
+(N/A) SPW
+(-) SRDS
+(+) SSS
+(N/A) TRUST
+(-) TrustBus
+(-) VizSec
+(N/A) WCC [extended abstract]
+(N/A) WEIS
+(-) WISA
+(N/A) WISTP
+(N/A) YACC
+
+
+#### UNLIMITED ####
+
+TOP 20:
+
+(+) USENIX Sec
+(+) ACM CCS
+(+) NDSS
+(+) Eurocrypt
+(+) Crypto
+(+) IEEE EuroS&P
+(+) AsiaCrypt
+(+) FC
+(+) ACNS
+(+) RAID
+(+) PKC
+(+) IEEE CSF
+(+) TCC
+
+Others:
+
+(+) AReS
+(+) CANS
+(+) CISIS
+(+) FSE
+(+) ICISC
+(+) HST
+(+) SaTML
+(+) PRDC
+(+) SecDev
+(+) ITC
+(+) PETS
+(+) PQCrypto
+(+) ProvSec
+(+) SCN
+(+) SOUPS
+(+) SPACE
+(+) SSS
+
+
+
+
+
+#### LIMITED ####
+TOP 20:
+(-) IEEE S&P
+(-) CHES
+(-) ACSAC
+(-) ESORICS
+(-) ACM AsiaCCS
+(-) CT-RSA
+(-) ACM WiSec
+
+Others:
+(-) CODASPY
+(-) CPSS
+(-) SACMAT
+(-) ACISP
+(-) Africacrypt
+(-) COSADE
+(-) CRiSIS
+(-) CRITIS
+(-) DFRWS
+(-) DIMVA
+(-) DPM
+(-) EDCC
+(-) ESCAR
+(-) EuroSec
+(-) FDTC
+(-) FPS
+(-) GameSec
+(-) ICDF2C
+(-) ICICS
+(-) ICIMP
+(-) ICISS
+(-) ICISSP
+(-) IEEE-CNS
+(-) DASC
+(-) DSC
+(-) HOST
+(-) QRS
+(-) TrustCom
+(-) DSN
+(-) DBSec
+(-) DF
+(-) HAISA
+(-) Sec
+(-) Indocrypt
+(-) Inscrypt
+(-) ISC
+(-) ISPEC
+(-) IWDW
+(-) IWSEC
+(-) NSPW
+(-) NSS
+(-) Pairing
+(-) PSD
+(-) PST
+(-) RWC
+(-) SAFECOMP
+(-) ACM SAC
+(-) SAM
+(-) SCIS
+(-) SECITC
+(-) SECRYPT
+(-) SecureComm
+(-) SecurWare
+(-) SIN
+(-) SRDS
+(-) TrustBus
+(-) VizSec
+(-) WISA
+
+
+
+#### INACTIVE / EXCLUDED ####
+
+(N/A) CBC
+(N/A) CECC
+(N/A) ECC
+(N/A) ESSoS
+(N/A) ICS-CSR
+(N/A) HASE
+(N/A) Malware
+(N/A) PAC
+(?) CIP
+(N/A) NTMS
+(N/A) TM
+(N/A) IMACC
+(N/A) Latincrypt
+(N/A) NordSec
+(N/A) QCrypt [extended abstracts]
+(N/A) RFIDsec
+(N/A) SPW
+(N/A) TRUST
+(N/A) WCC [extended abstract]
+(N/A) WEIS
+(N/A) WISTP
+(N/A) YACC
