@@ -12,7 +12,7 @@ These lists will be updated less frequently, due to the larger amount of effort 
 As usual, feel free to [email me](mailto:giovanni.apruzzese@uni.li) if you spot a mistake (e.g., a missing venue), or if you want to "refresh" it sooner.
 
 ### Venues with NO page limits (31)
-The list is provided in the table below. I only included "active" venues, i.e., those for which an event is either planned, or has already been held, in the current year (i.e., 2022). Refer to [this document]({{ BASE_PATH }}/pages/jianyingZhou.txt) for included/excluded venues (the [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html) has 117 venues in total: the top20, and 96 others; of these, 21 are excluded).
+The list is provided in the table below. I only included "active" venues, i.e., those for which an event is either planned, or has already been held, in the current year (i.e., 2022). Refer to [this document]({{ BASE_PATH }}/pages/jianyingZhou_2023.txt) for included/excluded venues (the [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html) has 117 venues in total: the top20, and 96 others; of these, 21 are excluded).
 
 For each conference that has "unlimited" pages, the table also reports: the link to the most recent CfP, the amount of "base" pages (i.e., those subject to limitations), the template (DC=Double Column), the year in which the venue started to accept unlimited "extra" pages (since 2011), whether the venue accepts Systematization of Knowledge (SoK) papers, and whether the venue has a (dedicated) Artifact evaluation.
 
