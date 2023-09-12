@@ -1,8 +1,8 @@
 | #  | Venue (Acronym) |                                   CfP Link                                   | Base Pages | Template   |                                 Since                                  | SoK? | Artifact? |
 |:--:|-----------------|:----------------------------------------------------------------------------:|:----------:|------------|:----------------------------------------------------------------------:|:----:|:---------:|
 | 1  | _CCS_           |                 [2023](https://www.sigsac.org/ccs/CCS2023/)                  |     12     | ACM, DC    |             [2017](https://ccs2017.sigsac.org/papers.html)             |      |     ✔     |
-| 2  | _Security_(*)   |   [2024](https://www.usenix.org/sites/default/files/sec24_cfp_071023.pdf)    |     13     | USENIX, DC |  [2011](https://www.usenix.org/legacy/events/sec11/cfp/sec11cfp.pdf)   |  ✔    |     ✔     |
-| 3  | _NDSS_ (*)      | [2024](https://www.ndss-symposium.org/ndss2024/submissions/call-for-papers/) |     13     | NDSS, DC   |    [2020](https://www.ndss-symposium.org/ndss2020/call-for-papers/)    |      |    ✔       |
+| 2  | _Security_(*)   |   [2024](https://www.usenix.org/sites/default/files/sec24_cfp_071023.pdf)    |     13     | USENIX, DC |  [2011](https://www.usenix.org/legacy/events/sec11/cfp/sec11cfp.pdf)   |  ✔   |     ✔     |
+| 3  | _NDSS_ (*)      | [2024](https://www.ndss-symposium.org/ndss2024/submissions/call-for-papers/) |     13     | NDSS, DC   |    [2020](https://www.ndss-symposium.org/ndss2020/call-for-papers/)    |      |     ✔     |
 | 4  | _Crypto_(*)     |           [2023](https://crypto.iacr.org/2023/papersubmission.php)           |     30     | LNCS, SC   |      [2011](https://www.iacr.org/conferences/crypto2011/cfp.html)      |      |           |
 | 5  | _Eurocrypt_(*)  |          [2024](https://eurocrypt.iacr.org/2024/callforpapers.php)           |     30     | LNCS, SC   |     [2011](https://www.iacr.org/conferences/eurocrypt2011/cfp.php)     |      |           |
 | 6  | _RAID_          |                    [2023](https://raid2023.org/call.html)                    |     12     | ACM, DC    |          [2019](http://www.raid-2019.org/callForPapers.html)           |      |           |
@@ -19,8 +19,6 @@
 | 17 | _FSE_           |            [2024](https://fse.iacr.org/2024/papersubmission.php)             |     20     | LNCS, SC   |           [2022](https://fse.iacr.org/2022/files/cfp_21.pdf)           |  ✔   |           |
 | 18 | _PKC_           |             [2024](https://pkc.iacr.org/2024/callforpapers.php)              |     30     | LNCS, SC   |  [2011](https://www.iacr.org/workshops/pkc2011/Call_for_Papers.html)   |      |           |
 | 19 | _FC_            |                     [2024](http://fc24.ifca.ai/cfp.html)                     |     15     | LNCS, SC   |                  [2015](http://fc15.ifca.ai/cfp.html)                  |  ✔   |
-| 20 | _SaTML_         |                  [2024](https://satml.org/participate-cfp/)                  |     12     | IEEE, DC   |               [2023](https://satml.org/2023/participate-cfp/)               |  ✔   |           |
-
-
+| 20 | _SaTML_         |                  [2024](https://satml.org/participate-cfp/)                  |     12     | IEEE, DC   |            [2023](https://satml.org/2023/participate-cfp/)             |  ✔   |           |
 {:.table}
 {:.table-bordered}
