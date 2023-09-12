@@ -33,3 +33,10 @@ For completeness, below is a table of those venues (also from [Jianying Zhou's r
 {% include_relative tables/long_limited.md %}
 
 (last update: October 4th, 2022)
+
+#### History
+
+Want to see how the tables changed over time? Then follow the links below
+
+* Feb 2023: [Short]({{ BASE_PATH }}/pages/history/2023_feb/short), [Long]({{ BASE_PATH }}/pages/history/2023_feb/long)
+* Sept 2023: [Short]({{ BASE_PATH }}/index), [Long]({{ BASE_PATH }}/pages/long)

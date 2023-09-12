@@ -5,6 +5,8 @@ tagline:  a LONG list (Feb. 2023)
 description: This webpage lists all (ttbomk) security venues without (and with) page limits
 ---
 
+# (February 2023)
+
 This section of the website is an "extended" version of the list in the [homepage]({{ BASE_PATH }}). Specifically, instead of using just the venues listed by Guofei Gu (44 in total), I will report *all* the venues considered in the [Jianying Zhou's ranking](http://jianying.space/conference-ranking.html) alongside all those in the homepage (96 venues in total are listed in this page).
 
 These lists will be updated less frequently, due to the larger amount of effort required to keep track of all these venues.
@@ -33,3 +35,10 @@ For completeness, below is a table of those venues (also from [Jianying Zhou's r
 {% include_relative tables/long_limited.md %}
 
 (last update: February 18th, 2023)
+
+#### History
+
+Want to see how the tables changed over time? Then follow the links below
+
+* Feb 2023: [Short]({{ BASE_PATH }}/pages/history/2023_feb/short), [Long]({{ BASE_PATH }}/pages/history/2023_feb/long)
+* Sept 2023: [Short]({{ BASE_PATH }}/index), [Long]({{ BASE_PATH }}/pages/long)
