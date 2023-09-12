@@ -21,7 +21,7 @@ The list is provided in the table below. For each conference that has "unlimited
 
 
 
-{% include_relative pages/tables/short_unlimited.md %}
+{% include_relative tables/short_unlimited.md %}
 
 I will update this list regularly, but feel free to [email me](mailto:giovanni.apruzzese@uni.li) if you spot a mistake (e.g., a missing venue), or if you want to refresh it sooner. Please include "[SNPL]" in the subject of the email (I will give proper credit to any contribution). Alternatively, you can _post a message_ on the (public) [GitHub project](https://github.com/secnopagelim/secnopagelim.github.io/discussions) related to this website.
 
@@ -40,7 +40,7 @@ As all such considerations are personal, I will not discuss them here: feel free
 For completeness, below is a table of those venues (also from [Guofei Gu rankings](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm)) that, at the time of writing, **have page limits** for their appendices (if any). For each "limited" venue, the table reports: the latest CfP, the length of base pages, the template, the length of "extra" pages (for appendices and/or references---an asterisk * denotes unlimited pages for references), and whether it accepts SoK and Artifacts. (credit to [David Evans](https://www.cs.virginia.edu/~evans/) for recommending to include also this table!)
 
 
-{% include_relative pages/tables/short_limited.md %}
+{% include_relative tables/short_limited.md %}
 
 (last update: February 18th, 2023)
 

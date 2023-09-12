@@ -52,3 +52,5 @@ I am also curating a "longer" list of all venues, accessible at the following pa
 #### History
 
 Want to see how the tables changed over time? Then follow the links below
+
+* Feb 2023: [Short]({{ BASE_PATH }}/pages/history/2023_feb/short), [Long]({{ BASE_PATH }}/pages/history/2023_feb/long)
