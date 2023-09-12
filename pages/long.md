@@ -32,7 +32,7 @@ For completeness, below is a table of those venues (also from [Jianying Zhou's r
 
 {% include_relative tables/long_limited.md %}
 
-(last update: October 4th, 2022)
+(last update: September 13th, 2023)
 
 #### History
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Security Venues with No Page-Limit 
-tagline:  a LONG list (Feb. 2023)
+tagline:  a LONG list 
 description: This webpage lists all (ttbomk) security venues without (and with) page limits
 ---
 
@@ -34,7 +34,7 @@ For completeness, below is a table of those venues (also from [Jianying Zhou's r
 
 {% include_relative tables/long_limited.md %}
 
-(last update: February 18th, 2023)
+(last update: February 19th, 2023)
 
 #### History
 
