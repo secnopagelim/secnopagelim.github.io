@@ -42,15 +42,9 @@ For completeness, below is a table of those venues (also from [Guofei Gu ranking
 
 {% include_relative pages/tables/short_limited.md %}
 
-(last update: September 12th, 2023)
+(last update: February 18th, 2023)
 
 
 #### Long lists
 
 I am also curating a "longer" list of all venues, accessible at the following page: [Long List]({{ BASE_PATH }}/pages/long)
-
-#### History
-
-Want to see how the tables changed over time? Then follow the links below
-
-* Feb 2023: [Short]({{ BASE_PATH }}/pages/history/2023_feb/short), [Long]({{ BASE_PATH }}/pages/history/2023_feb/long)
